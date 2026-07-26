@@ -1,0 +1,1021 @@
+OrderID,OrderDate,CustomerName,Category,Product,Region,City,Quantity,UnitPrice,DiscountPct,Revenue,PaymentMethod,SalesRep
+ORD1384,02/27/2024,Diya Pillai,SPORTS,Yoga Mat,South,Bengaluru,10,4154.06,0,41540.6,  Cash on Delivery  ,S. Iyer
+ORD1776,07/13/2024,Meera Malhotra,Sports,Cycling Helmet,  West  ,Ahmedabad,2,8430.87,0.25,12646.31,  Debit Card  ,S. Iyer
+ORD1792,30/12/2025,Neha Malhotra,  Books  ,Children's Storybook,NORTH,Chandigarh,2,18396.8,0.1,33114.24,cash on delivery,P. Nair
+ORD1132,09/06/2025,Sai Kapoor,  Electronics  ,Webcam,  East  ,Patna,2,7233.82,0,14467.64,upi,T. Joshi
+ORD1465,08/18/2024,Sneha Mehta,  Home & Kitchen  ,Bed Sheet Set,East,Kolkata,1,15700.94,0.2,12560.75,CREDIT CARD,K. Singh
+ORD1589,2024-06-07,Ravi Rao,ELECTRONICS,Laptop Stand,EAST,Bhubaneswar,6,23034.55,0,138207.3,credit card,P. Nair
+ORD1954,08/03/2025,Diya Rao,Home & Kitchen,Blender,  South  ,Chennai,9,5108.15,0.1,41376.01,credit card,K. Singh
+ORD1838,2024-07-12,,apparel,Winter Jacket,EAST,Kolkata,7,5080.55,0,35563.85,CASH ON DELIVERY,S. Iyer
+ORD1457,14/07/2024,Karan Gupta,ELECTRONICS,Smartwatch,WEST,Pune,2,16842.93,0.2,26948.69,UPI,M. Reddy
+ORD1025,09/28/2025,Priya Iyer,apparel,Formal Shirt,  South  ,Chennai,5,11512.03,0,57560.15,CREDIT CARD,T. Joshi
+ORD1004,10/05/2025,Reyansh Verma,electronics,Noise Cancelling Headphones,  East  ,Patna,8,,0.2,86241.73,Credit Card,K. Singh
+ORD1422,2025-06-20,Rohan Iyer,SPORTS,Badminton Racket,east,Patna,9,4549.36,0.25,30708.18,Cash on Delivery,N. Gupta
+ORD1992,2024-01-29,Vihaan Sharma,  Electronics  ,Smartwatch,north,Lucknow,10,18898.78,0.15,160639.63,upi,P. Nair
+ORD1260,01/13/2024,Sai Bose,ELECTRONICS,USB-C Hub,North,Chandigarh,10,15279.49,0.1,137515.41,Debit Card,R. Verma
+ORD1428,09/07/2024,Meera Malhotra,Electronics,Webcam,west,Pune,4,8118.0,0,32472,credit card,A. Sharma
+ORD1817,19-Nov-2024,Isha Das,  Apparel  ,Women's Jeans,east,Patna,10,16484.35,0,164843.5,net banking,S. Iyer
+ORD1259,2024-09-01,Isha Iyer,Electronics,Smartwatch,North,Lucknow,9,8269.74,0,74427.66,upi,N. Gupta
+ORD1434,18/08/2025,Ananya Mehta,books,Biography,east,Kolkata,10,3123.29,0.05,29671.26,credit card,A. Sharma
+ORD1272,22-Apr-2025,Isha Iyer,sports,Cycling Helmet,south,Bengaluru,10,2857.97,0,28579.7,Debit Card,T. Joshi
+ORD1237,07/18/2024,Rohan Menon,home & kitchen,Blender,  South  ,Chennai,1,21658.23,0,21658.23,  Net Banking  ,S. Iyer
+ORD1947,26-Aug-2025,Pooja Bose,apparel,Yoga Pants,north,Chandigarh,9,4497.56,0.15,34406.33,  UPI  ,N. Gupta
+ORD1075,2025-12-16,Ravi Bose,electronics,USB-C Hub,EAST,Patna,1,5208.42,0,5208.42,UPI,T. Joshi
+ORD1087,12/19/2024,,sports,Cycling Helmet,west,Pune,5,16988.63,0,84943.15,Credit Card,T. Joshi
+ORD1836,2025-11-25,Sai Sharma,Beauty,Face Wash,south,Bengaluru,3,,0,12045.66,DEBIT CARD,A. Sharma
+ORD1023,2025-09-01,Sneha Singh,electronics,Wireless Mouse,West,Ahmedabad,1,24025.36,0,24025.36,debit card,R. Verma
+ORD1719,24-Sep-2025,Vivaan Bhatt,beauty,Face Wash,NORTH,Delhi,1,7478.68,0.2,5982.94,  Net Banking  ,R. Verma
+ORD1296,28/10/2024,Pooja Malhotra,electronics,Wireless Mouse,WEST,Ahmedabad,3,1504.45,0,4513.35,net banking,R. Verma
+ORD1813,2024-05-23,Aarav Joshi,Beauty,Lipstick,west,Ahmedabad,5,1297.23,0.1,5837.53,cash on delivery,T. Joshi
+ORD1153,05/12/2024,Aditya Bose,BEAUTY,Shampoo,SOUTH,Chennai,8,17050.71,0.15,115944.83,Debit Card,S. Iyer
+ORD1537,17/02/2025,,  Sports  ,Cycling Helmet,South,Hyderabad,10,242.04,0.25,1815.3,,N. Gupta
+ORD1438,11/03/2024,Ananya Bhatt,  Books  ,Biography,South,Hyderabad,6,8193.47,0.25,36870.61,UPI,S. Iyer
+ORD1998,01/11/2025,Diya Joshi,Home & Kitchen,LED Desk Lamp,EAST,Bhubaneswar,3,3800.51,0,11401.53,DEBIT CARD,R. Verma
+ORD1777,11-Nov-2024,Priya Rao,electronics,Wireless Mouse,East,Bhubaneswar,7,24266.74,0.15,144387.1,net banking,T. Joshi
+ORD1309,03/02/2024,Karan Sharma,HOME & KITCHEN,Air Fryer,south,Hyderabad,3,4940.17,0.05,14079.48,Credit Card,P. Nair
+ORD1369,14-Aug-2024,Isha Das,beauty,Face Wash,  North  ,Chandigarh,4,10404.46,0,41617.84,Debit Card,S. Iyer
+ORD1604,09/11/2025,Sai Verma,Sports,Football,south,Bengaluru,2,12528.65,0,25057.3,Debit Card,N. Gupta
+ORD1155,06/24/2024,Myra Menon,HOME & KITCHEN,Vacuum Cleaner,east,Kolkata,9,2471.7,0,22245.3,  Cash on Delivery  ,S. Iyer
+ORD1943,30-May-2024,Ravi Nair,BEAUTY,Face Moisturizer,West,Mumbai,1,20500.32,0.1,18450.29,Debit Card,S. Iyer
+ORD1790,11/07/2025,Kabir Das,Electronics,Bluetooth Speaker,east,Patna,8,15516.04,0.25,93096.24,cash on delivery,N. Gupta
+ORD1254,08/12/2025,Neha Kumar,Apparel,Women's Jeans,  West  ,Pune,3,6307.49,0,18922.47,debit card,K. Singh
+ORD1573,11/12/2025,Diya Bose,Electronics,Wireless Mouse,east,Patna,5,9336.35,0.05,44347.66,,A. Sharma
+ORD1997,03/07/2024,Vivaan Pillai,Books,Children's Storybook,south,Chennai,2,7019.67,0.15,11933.44,CREDIT CARD,T. Joshi
+ORD1495,04/04/2024,Isha Kapoor,Apparel,Formal Shirt,west,Pune,5,4499.07,0.15,19121.05,credit card,P. Nair
+ORD1652,02-Jan-2025,Myra Malhotra,BOOKS,Business Guide,south,Bengaluru,7,18436.85,0.1,116152.15,CASH ON DELIVERY,S. Iyer
+ORD1467,05/21/2024,Arjun Bose,APPAREL,Yoga Pants,East,Patna,9,3424.54,0,30820.86,CASH ON DELIVERY,P. Nair
+ORD1051,2024-09-10,Pooja Verma,electronics,Webcam,north,Lucknow,6,5721.92,0,34331.52,credit card,A. Sharma
+ORD1519,19-Jun-2025,Aditya Iyer,  Home & Kitchen  ,Coffee Maker,west,Ahmedabad,9,24591.94,0.1,199194.71,Net Banking,R. Verma
+ORD1367,07/12/2025,Priya Sharma,ELECTRONICS,Smartwatch,  West  ,Pune,8,4034.64,0.05,30663.26,  Debit Card  ,N. Gupta
+ORD1333,2024-02-10,Kabir Bose,Electronics,Bluetooth Speaker,North,Chandigarh,5,6713.51,0,33567.55,Credit Card,S. Iyer
+ORD1308,03/08/2024,Isha Rao,beauty,Shampoo,  South  ,Chennai,8,19023.41,0.15,129359.19,CREDIT CARD,S. Iyer
+ORD1832,08/02/2025,Ravi Sharma,beauty,Lipstick,West,Mumbai,3,19270.77,0.1,52031.08,Debit Card,T. Joshi
+ORD1708,14/01/2025,Meera Das,SPORTS,Dumbbell Set,east,Bhubaneswar,7,4553.09,0,31871.63,credit card,T. Joshi
+ORD1800,08-Oct-2025,Vivaan Menon,sports,Cricket Bat,East,Kolkata,6,7825.95,0,46955.7,UPI,T. Joshi
+ORD1979,14-Jul-2025,Neha Mehta,Books,Fiction Novel,north,Chandigarh,4,8463.35,0,33853.4,  Debit Card  ,P. Nair
+ORD1387,17/01/2024,Meera Pillai,books,Business Guide,EAST,Bhubaneswar,2,5860.87,0.2,9377.39,Debit Card,R. Verma
+ORD1139,05/16/2024,Aarav Das,  Books  ,Biography,EAST,Bhubaneswar,2,8718.34,0,17436.68,cash on delivery,M. Reddy
+ORD1127,03/07/2024,Sneha Gupta,beauty,Face Wash,east,Kolkata,7,12785.94,0,89501.58,upi,K. Singh
+ORD1378,27-Sep-2024,Ravi Das,apparel,Running Shoes,South,Hyderabad,1,5587.66,0.25,4190.74,Debit Card,R. Verma
+ORD1911,10/10/2025,Aditya Malhotra,electronics,Webcam,north,Chandigarh,2,5375.85,0.2,8601.36,NET BANKING,M. Reddy
+ORD1826,07-Sep-2024,Aarav Menon,  Books  ,Business Guide,North,Chandigarh,4,22785.53,0,91142.12,net banking,M. Reddy
+ORD1047,2025-05-14,Aarav Das,sports,Yoga Mat,West,Pune,5,18873.86,0.2,75495.44,cash on delivery,P. Nair
+ORD1442,02/20/2024,Isha Nair,ELECTRONICS,USB-C Hub,north,Chandigarh,1,14339.65,0.2,11471.72,NET BANKING,K. Singh
+ORD1390,10/17/2024,Karan Nair,  Sports  ,Skipping Rope,  East  ,Patna,7,3477.0,0.25,18254.25,Debit Card,R. Verma
+ORD1373,01/03/2025,Ananya Sharma,BEAUTY,Perfume,East,Bhubaneswar,6,6267.45,0.05,35724.46,net banking,K. Singh
+ORD1391,05-Dec-2025,Aarav Sharma,beauty,Face Wash,East,Kolkata,,13135.13,0,131351.3,NET BANKING,P. Nair
+ORD1110,10/10/2025,Vihaan Sharma,APPAREL,Baseball Cap,east,Bhubaneswar,3,21766.09,0.2,52238.62,CREDIT CARD,S. Iyer
+ORD1540,06/02/2024,Priya Nair,ELECTRONICS,Portable SSD,south,Chennai,6,12239.61,0.25,55078.25,DEBIT CARD,S. Iyer
+ORD1727,03/16/2024,Arjun Chatterjee,Beauty,Sunscreen SPF50,South,Chennai,4,10097.77,0,40391.08,UPI,A. Sharma
+ORD1137,2025-09-21,Sneha Pillai,  Electronics  ,Webcam,north,Lucknow,4,18005.83,0.1,64820.99,NET BANKING,A. Sharma
+ORD1941,13-Nov-2025,Aditya Singh,books,Self-Help Book,  South  ,Chennai,3,8404.06,,18909.14,Debit Card,A. Sharma
+ORD1631,23-Jul-2024,Aarav Verma,BOOKS,Children's Storybook,east,Bhubaneswar,3,15809.39,0,47428.17,CREDIT CARD,N. Gupta
+ORD1130,01/11/2025,Myra Bose,home & kitchen,Vacuum Cleaner,west,Ahmedabad,4,13420.18,0.1,48312.65,net banking,P. Nair
+ORD1426,2025-06-13,Ananya Chatterjee,sports,Skipping Rope,west,Mumbai,7,5631.72,0,39422.04,Net Banking,P. Nair
+ORD1417,11-Sep-2025,Aditya Singh,Home & Kitchen,Air Fryer,  West  ,Mumbai,6,5821.22,0.15,29688.22,UPI,K. Singh
+ORD1370,10/24/2024,Ananya Pillai,beauty,Hair Dryer,South,,1,21306.98,0.25,15980.24,Cash on Delivery,R. Verma
+ORD1108,2024-08-17,Meera Patel,  Books  ,Biography,North,Chandigarh,6,Rs.2724.47,0.05,15529.48,DEBIT CARD,T. Joshi
+ORD1400,24-Sep-2024,Kabir Menon,beauty,Perfume,east,Bhubaneswar,4,11450.76,0.2,36642.43,cash on delivery,A. Sharma
+ORD1905,06/26/2024,Meera Chatterjee,sports,Football,  West  ,Mumbai,1,20063.09,0.2,16050.47,  Debit Card  ,N. Gupta
+ORD1545,16-Feb-2024,Neha Kumar,BEAUTY,Sunscreen SPF50,North,Delhi,7,,0,57450.68,upi,P. Nair
+ORD1101,2024-05-09,Vihaan Joshi,electronics,Wireless Mouse,South,Bengaluru,10,8195.72,0,81957.2,UPI,A. Sharma
+ORD1849,2025-06-09,Reyansh Reddy,sports,Skipping Rope,West,Ahmedabad,3,239.47,0.05,682.49,Cash on Delivery,A. Sharma
+ORD1942,2025-04-30,Ananya Mehta,Sports,Skipping Rope,East,Kolkata,2,4392.52,0,8785.04,cash on delivery,M. Reddy
+ORD1978,09/26/2024,Meera Verma,  Electronics  ,USB-C Hub,East,Bhubaneswar,9,17483.32,0,157349.88,CASH ON DELIVERY,T. Joshi
+ORD1220,06-Dec-2024,Meera Reddy,Home & Kitchen,Vacuum Cleaner,west,Ahmedabad,8,2808.26,0.1,20219.47,  Credit Card  ,N. Gupta
+ORD1114,02/05/2024,Isha Patel,apparel,Yoga Pants,NORTH,Delhi,4,19218.64,0.1,69187.1,  UPI  ,M. Reddy
+ORD1624,16/11/2024,Karan Kapoor,books,Children's Storybook,North,Lucknow,5,12486.81,0,62434.05,  Debit Card  ,R. Verma
+ORD1178,23/10/2024,Neha Singh,Books,Business Guide,NORTH,Delhi,1,24929.72,0.2,19943.78,  Net Banking  ,S. Iyer
+ORD1295,31-Aug-2024,Isha Rao,  Electronics  ,Bluetooth Speaker,EAST,Kolkata,9,18092.65,0.1,146550.46,UPI,K. Singh
+ORD1049,21-Feb-2024,Karan Sharma,BEAUTY,Face Moisturizer,WEST,Ahmedabad,2,16122.33,0,32244.66,NET BANKING,S. Iyer
+ORD1276,2024-03-17,Kabir Iyer,APPAREL,Women's Jeans,North,Delhi,4,20618.28,0.15,70102.15,Credit Card,K. Singh
+ORD1996,2025-05-06,Rohan Bose,Home & Kitchen,Bed Sheet Set,EAST,Kolkata,1,11081.75,0.25,8311.31,Credit Card,M. Reddy
+ORD1406,08-Jul-2025,Sai Nair,Apparel,Winter Jacket,East,Kolkata,2,16943.93,0.25,25415.9,CASH ON DELIVERY,A. Sharma
+ORD1713,2025-06-13,Neha Mehta,sports,Yoga Mat,east,Bhubaneswar,2,17052.31,0.25,25578.47,  Net Banking  ,M. Reddy
+ORD1845,2024-07-25,Rohan Nair,Beauty,Sunscreen SPF50,  South  ,Hyderabad,2,23554.18,0.15,40042.11,UPI,T. Joshi
+ORD1058,2025-12-08,Isha Gupta,home & kitchen,LED Desk Lamp,north,Lucknow,4,18043.86,,54131.58,cash on delivery,P. Nair
+ORD1812,2025-01-07,Pooja Mehta,BEAUTY,Sunscreen SPF50,SOUTH,Bengaluru,1,2252.57,0,2252.57,cash on delivery,K. Singh
+ORD1675,21/08/2024,Vihaan Rao,Home & Kitchen,Blender,North,Chandigarh,-6,Rs.15791.59,0.05,90012.06,debit card,N. Gupta
+ORD1499,06/01/2024,Myra Mehta,Apparel,Formal Shirt,South,Bengaluru,9,8080.87,0.25,54545.87,  Credit Card  ,K. Singh
+ORD1921,11/29/2025,Pooja Mehta,Home & Kitchen,Vacuum Cleaner,SOUTH,Bengaluru,10,23664.84,0,236648.4,cash on delivery,N. Gupta
+ORD1344,19/12/2025,Kabir Sharma,Home & Kitchen,Cutlery Set,north,Delhi,6,8975.2,0.1,48466.08,cash on delivery,M. Reddy
+ORD1886,2025-06-08,Vihaan Patel,APPAREL,Women's Jeans,west,Mumbai,7,10314.48,0,72201.36,NET BANKING,M. Reddy
+ORD1606,01-May-2024,Reyansh Bhatt,Books,Biography,WEST,Ahmedabad,6,20265.62,0,121593.72,Credit Card,N. Gupta
+ORD1928,2024-05-21,Vivaan Patel,  Electronics  ,Smartwatch,  North  ,Delhi,2,6703.62,0.2,10725.79,UPI,S. Iyer
+ORD1125,2024-10-17,Meera Verma,Sports,Skipping Rope,EAST,Patna,6,1787.91,0,10727.46,Cash on Delivery,N. Gupta
+ORD1859,05/05/2025,Diya Malhotra,  Electronics  ,Noise Cancelling Headphones,North,Delhi,10,22325.9,0,223259,UPI,M. Reddy
+ORD1671,2024-06-03,Kabir Malhotra,  Electronics  ,USB-C Hub,NORTH,,5,24842.52,0.15,105580.71,Credit Card,K. Singh
+ORD1585,01/17/2025,Vihaan Pillai,Home & Kitchen,Cutlery Set,  North  ,Lucknow,8,14204.53,0.1,102272.62,NET BANKING,R. Verma
+ORD1226,18-Apr-2024,Meera Verma,APPAREL,Formal Shirt,south,,10,24592.66,0.2,196741.28,upi,N. Gupta
+ORD1173,08/10/2025,Ravi Das,Books,Self-Help Book,west,Pune,9,23352.45,0.1,189154.85,UPI,R. Verma
+ORD1268,02-Jan-2024,Aarav Rao,Sports,Football,south,,1,5939.99,0.15,5048.99,CREDIT CARD,M. Reddy
+ORD1246,2024-08-04,Rohan Das,home & kitchen,Non-stick Pan,north,Lucknow,2,19922.6,0.2,31876.16,DEBIT CARD,N. Gupta
+ORD1436,2024-01-22,Ravi Joshi,Books,Self-Help Book,north,Delhi,6,24544.64,0.15,125177.66,NET BANKING,P. Nair
+ORD1984,16-Jan-2024,Kabir Joshi,APPAREL,Formal Shirt,  West  ,Mumbai,2,14777.14,0.05,28076.57,NET BANKING,A. Sharma
+ORD1374,10/14/2024,Rohan Das,APPAREL,Formal Shirt,West,Pune,5,12251.24,0,61256.2,debit card,R. Verma
+ORD1085,2025-06-27,Arjun Verma,BOOKS,Cookbook,north,Delhi,5,9057.81,0.2,36231.24,Debit Card,P. Nair
+ORD1918,2025-02-11,Ananya Verma,Home & Kitchen,Bed Sheet Set,NORTH,,9,6438.63,0.2,46358.14,  UPI  ,M. Reddy
+ORD1693,21-Oct-2025,Reyansh Gupta,home & kitchen,Non-stick Pan,WEST,Ahmedabad,3,17724.13,0.1,47855.15,  Cash on Delivery  ,R. Verma
+ORD1700,02/10/2024,Pooja Rao,home & kitchen,Non-stick Pan,east,Bhubaneswar,2,12181.66,0.2,19490.66,debit card,A. Sharma
+ORD1349,29/12/2025,Diya Iyer,SPORTS,Resistance Bands,East,Bhubaneswar,7,15122.73,0.1,95273.2,Cash on Delivery,M. Reddy
+ORD1931,14-Jan-2024,Kabir Reddy,Home & Kitchen,Coffee Maker,East,Patna,2,2017.34,0.25,3026.01,credit card,P. Nair
+ORD1571,12/27/2024,Reyansh Joshi,Home & Kitchen,Blender,EAST,Kolkata,8,9391.77,0.1,67620.74,CREDIT CARD,S. Iyer
+ORD1064,30/07/2025,Sai Gupta,apparel,Men's T-Shirt,east,Bhubaneswar,7,12369.9,0,86589.3,DEBIT CARD,S. Iyer
+ORD1172,2024-10-22,Ravi Reddy,  Books  ,Business Guide,East,Patna,4,7083.31,0.1,25499.92,DEBIT CARD,K. Singh
+ORD1456,2024-09-05,Ravi Bhatt,Beauty,Face Wash,south,,4,12273.35,,46638.73,Cash on Delivery,P. Nair
+ORD1770,07/06/2024,Vivaan Joshi,HOME & KITCHEN,Vacuum Cleaner,South,Hyderabad,4,15260.37,0.2,48833.18,CASH ON DELIVERY,M. Reddy
+ORD1608,02/06/2025,Sai Pillai,Apparel,Baseball Cap,  West  ,Pune,8,16552.95,0.25,99317.7,Net Banking,S. Iyer
+ORD1977,2024-10-21,Kabir Patel,APPAREL,Men's T-Shirt,East,Kolkata,5,9852.1,0.15,41871.42,Credit Card,S. Iyer
+ORD1144,2024-06-19,Sai Gupta,BEAUTY,Lipstick,east,Bhubaneswar,6,16573.84,0.1,89498.74,Net Banking,N. Gupta
+ORD1270,2025-08-29,Vihaan Bose,electronics,USB-C Hub,west,Ahmedabad,2,14582.15,0,29164.3,NET BANKING,R. Verma
+ORD1724,24-Jul-2024,Kabir Kapoor,  Home & Kitchen  ,Non-stick Pan,south,Bengaluru,9,21488.75,0.2,154719,UPI,P. Nair
+ORD1533,01-Feb-2025,Arjun Mehta,  Electronics  ,Webcam,  East  ,Bhubaneswar,3,19551.17,0.1,52788.16,Credit Card,N. Gupta
+ORD1834,12/05/2024,Isha Nair,home & kitchen,Air Fryer,North,Chandigarh,4,7229.76,0,28919.04,Net Banking,N. Gupta
+ORD1231,09/20/2025,Kabir Chatterjee,APPAREL,Formal Shirt,WEST,Pune,3,4781.72,0.2,11476.13,  Net Banking  ,A. Sharma
+ORD1520,25-Apr-2025,Aditya Bhatt,beauty,Shampoo,  South  ,Chennai,10,7915.62,0,79156.2,UPI,A. Sharma
+ORD1564,25-Oct-2025,Priya Das,beauty,Perfume,North,Delhi,8,,0.15,105641.2,UPI,S. Iyer
+ORD1611,05/12/2025,Vivaan Joshi,Home & Kitchen,Bed Sheet Set,WEST,Pune,4,5980.36,0.1,21529.3,cash on delivery,R. Verma
+ORD1864,29-Dec-2025,,  Sports  ,Cricket Bat,EAST,Patna,2,6886.67,0.25,10330.01,UPI,K. Singh
+ORD1065,06/04/2025,Pooja Rao,home & kitchen,Coffee Maker,South,Bengaluru,10,14963.75,0.05,142155.62,Cash on Delivery,N. Gupta
+ORD1133,08/29/2024,,Apparel,Yoga Pants,NORTH,Delhi,1,10460.19,0.2,8368.15,Cash on Delivery,M. Reddy
+ORD1613,12/08/2025,Priya Pillai,Electronics,Webcam,NORTH,Chandigarh,7,8162.17,0,57135.19,net banking,R. Verma
+ORD1318,21/09/2024,Myra Singh,Beauty,Nail Polish,east,Patna,9,4651.23,0,41861.07,NET BANKING,S. Iyer
+ORD1665,01/10/2024,Vivaan Kapoor,sports,Badminton Racket,south,Hyderabad,1,10636.81,0.15,9041.29,  Cash on Delivery  ,R. Verma
+ORD1082,2024-03-17,Sai Kapoor,Beauty,Perfume,  North  ,Chandigarh,8,531.39,0,4251.12,NET BANKING,S. Iyer
+ORD1962,09/19/2025,Myra Chatterjee,sports,Skipping Rope,NORTH,Delhi,8,24570.0,0.05,186732,  Cash on Delivery  ,K. Singh
+ORD1215,01/04/2025,Aditya Gupta,  Beauty  ,Hair Dryer,  South  ,Hyderabad,5,3982.39,,19911.95,,M. Reddy
+ORD1116,18-Feb-2025,Arjun Pillai,Sports,Yoga Mat,  West  ,Mumbai,7,14398.98,0.2,80634.29,  UPI  ,R. Verma
+ORD1412,2024-05-17,Diya Iyer,  Beauty  ,Face Wash,WEST,Mumbai,8,20170.86,0,161366.88,NET BANKING,T. Joshi
+ORD1477,2024-11-27,Sneha Nair,Books,Biography,north,Lucknow,3,19501.47,0,58504.41,  Net Banking  ,N. Gupta
+ORD1736,2024-05-17,Myra Rao,Sports,Football,  West  ,Mumbai,7,14348.55,0.15,85373.87,upi,R. Verma
+ORD1944,08-Jan-2025,Arjun Bose,electronics,Bluetooth Speaker,EAST,Patna,8,18410.15,0.1,132553.08,Net Banking,K. Singh
+ORD1813,05/23/2024,Aarav Joshi,Beauty,Lipstick,West,Ahmedabad,5,1297.23,0.1,5837.53,CASH ON DELIVERY,T. Joshi
+ORD1289,23/05/2025,Vivaan Singh,books,Children's Storybook,west,Ahmedabad,10,8057.69,0.05,76548.05,  Cash on Delivery  ,R. Verma
+ORD1301,26/06/2024,Priya Verma,APPAREL,Sneakers,East,Kolkata,9,Rs.14344.82,0,129103.38,CREDIT CARD,T. Joshi
+ORD1880,2024-01-25,Sai Kumar,Sports,Resistance Bands,South,Hyderabad,7,22428.3,0,156998.1,CASH ON DELIVERY,S. Iyer
+ORD1629,23/03/2024,Isha Singh,home & kitchen,Coffee Maker,SOUTH,Chennai,8,15839.11,0.2,101370.3,  Credit Card  ,K. Singh
+ORD1454,10/23/2024,Priya Bose,BEAUTY,Sunscreen SPF50,  South  ,Bengaluru,10,14445.08,0,144450.8,debit card,N. Gupta
+ORD1168,23/06/2024,Myra Sharma,Home & Kitchen,Coffee Maker,West,Ahmedabad,10,11943.57,0.05,113463.91,credit card,T. Joshi
+ORD1758,18-Nov-2025,Meera Nair,home & kitchen,Blender,South,Bengaluru,3,7459.49,0.2,17902.78,DEBIT CARD,R. Verma
+ORD1907,26-Jan-2024,Neha Sharma,  Apparel  ,Women's Jeans,North,Delhi,10,3953.26,0,39532.6,Cash on Delivery,N. Gupta
+ORD1680,2025-06-07,Arjun Chatterjee,Home & Kitchen,Coffee Maker,NORTH,Lucknow,3,13083.67,0.1,35325.91,Debit Card,R. Verma
+ORD1007,2024-02-02,Priya Mehta,books,Self-Help Book,south,Chennai,9,5607.44,0.15,42896.92,credit card,P. Nair
+ORD1722,05/10/2024,Ravi Menon,Beauty,Hair Dryer,  East  ,Bhubaneswar,8,4770.2,0,38161.6,CREDIT CARD,A. Sharma
+ORD1557,03/29/2024,Arjun Joshi,SPORTS,Badminton Racket,WEST,Mumbai,5,15150.35,0,75751.75,cash on delivery,P. Nair
+ORD1385,04/04/2025,Priya Menon,APPAREL,Baseball Cap,South,Hyderabad,10,15994.92,0.1,143954.28,Credit Card,P. Nair
+ORD1901,14-Nov-2025,Ravi Menon,Books,Fiction Novel,  West  ,Mumbai,9,2627.6,0.25,17736.3,Cash on Delivery,A. Sharma
+ORD1041,2025-10-06,,HOME & KITCHEN,Vacuum Cleaner,south,Bengaluru,4,24600.81,0,98403.24,  Net Banking  ,N. Gupta
+ORD1784,04/06/2025,Vihaan Singh,  Home & Kitchen  ,Air Fryer,South,Bengaluru,3,5070.81,0,15212.43,cash on delivery,R. Verma
+ORD1513,20/12/2025,Pooja Das,  Beauty  ,Face Moisturizer,north,Lucknow,2,21552.01,0,43104.02,debit card,N. Gupta
+ORD1663,22-Feb-2024,Ravi Sharma,books,Business Guide,west,Pune,8,14692.87,0.05,111665.81,UPI,N. Gupta
+ORD1018,02/24/2025,Neha Reddy,Apparel,Sneakers,South,Chennai,2,2558.73,,4093.97,  UPI  ,N. Gupta
+ORD1397,2025-09-05,Ravi Bose,beauty,Face Moisturizer,South,Hyderabad,1,5162.42,0.1,4646.18,DEBIT CARD,A. Sharma
+ORD1721,10/14/2025,Sai Sharma,Beauty,Perfume,South,Bengaluru,10,17875.49,0.05,169817.16,Cash on Delivery,S. Iyer
+ORD1839,19/01/2024,Diya Chatterjee,Beauty,Lipstick,SOUTH,Bengaluru,1,6955.46,0.05,6607.69,DEBIT CARD,N. Gupta
+ORD1503,13/11/2024,Karan Iyer,Home & Kitchen,Vacuum Cleaner,North,Chandigarh,2,20349.35,0.25,30524.02,credit card,T. Joshi
+ORD1684,2024-04-10,Priya Kapoor,books,Business Guide,south,Hyderabad,4,2764.89,0.05,10506.58,,T. Joshi
+ORD1357,02/10/2025,Rohan Iyer,apparel,Baseball Cap,North,Chandigarh,1,3969.53,0.15,3374.1,CASH ON DELIVERY,A. Sharma
+ORD1803,2025-12-27,,sports,Dumbbell Set,  East  ,Bhubaneswar,7,2568.39,0.15,15281.92,Cash on Delivery,A. Sharma
+ORD1435,30/12/2024,Aditya Joshi,books,Biography,South,Chennai,3,12572.99,0.15,32061.12,  Credit Card  ,A. Sharma
+ORD1677,10/08/2025,Priya Singh,ELECTRONICS,Bluetooth Speaker,East,Bhubaneswar,7,1677.49,0,11742.43,,A. Sharma
+ORD1929,18/06/2025,,Beauty,Nail Polish,North,Delhi,10,22211.79,,177694.32,Net Banking,R. Verma
+ORD1019,05/23/2024,Priya Kumar,  Sports  ,Yoga Mat,NORTH,Delhi,2,6329.11,0.05,12025.31,cash on delivery,T. Joshi
+ORD1033,08/21/2024,Ravi Joshi,APPAREL,Women's Jeans,West,Mumbai,4,20442.18,0.25,61326.54,UPI,K. Singh
+ORD1054,08/11/2025,Myra Menon,BEAUTY,Sunscreen SPF50,North,Lucknow,2,19936.25,0,39872.5,UPI,N. Gupta
+ORD1214,28-Mar-2024,Kabir Das,ELECTRONICS,Smartwatch,  West  ,Pune,9,23537.4,,169469.28,Debit Card,N. Gupta
+ORD1850,25-Oct-2024,Myra Mehta,SPORTS,Cycling Helmet,East,Kolkata,9,3109.72,0.05,26588.11,Credit Card,P. Nair
+ORD1731,29/06/2025,Meera Rao,Home & Kitchen,Bed Sheet Set,South,Hyderabad,2,3094.56,0,6189.12,Debit Card,P. Nair
+ORD1527,26-Jan-2025,Reyansh Iyer,Books,Business Guide,WEST,Pune,9,21776.4,0,195987.6,,T. Joshi
+ORD1192,09/03/2024,Sai Verma,Apparel,Baseball Cap,SOUTH,Hyderabad,7,15430.84,0,108015.88,Debit Card,P. Nair
+ORD1284,28-Jun-2024,Aarav Das,apparel,Formal Shirt,East,Patna,10,14155.62,0.05,134478.39,Net Banking,K. Singh
+ORD1914,08/05/2025,Arjun Iyer,home & kitchen,Coffee Maker,  South  ,Bengaluru,4,2223.55,0,8894.2,  UPI  ,K. Singh
+ORD1079,07/05/2025,Myra Pillai,Home & Kitchen,LED Desk Lamp,North,Chandigarh,10,24972.72,0.25,187295.4,Debit Card,T. Joshi
+ORD1601,07/22/2024,Priya Chatterjee,Beauty,Shampoo,  North  ,Delhi,10,24442.64,0,244426.4,CREDIT CARD,M. Reddy
+ORD1577,11-Oct-2024,Aditya Kumar,Beauty,Sunscreen SPF50,WEST,Pune,1,15262.56,0.05,14499.43,  Cash on Delivery  ,P. Nair
+ORD1043,29/03/2025,Kabir Nair,  Apparel  ,Sneakers,NORTH,Lucknow,8,3463.48,0.25,20780.88,  Cash on Delivery  ,M. Reddy
+ORD1598,12/22/2025,Sai Kumar,Sports,Football,south,Chennai,2,11727.66,0,23455.32,  Net Banking  ,M. Reddy
+ORD1575,2025-08-10,Aarav Bhatt,apparel,Sneakers,EAST,Kolkata,9,8382.32,0.1,67896.79,,K. Singh
+ORD1028,09/14/2024,Myra Menon,electronics,Bluetooth Speaker,SOUTH,Chennai,4,17982.66,0.05,68334.11,,T. Joshi
+ORD1273,2024-06-10,Vihaan Reddy,  Home & Kitchen  ,Air Fryer,north,Lucknow,8,7811.45,0.1,56242.44,  Credit Card  ,R. Verma
+ORD1327,05/06/2024,Kabir Joshi,apparel,Running Shoes,  West  ,Mumbai,3,5398.08,0,16194.24,Cash on Delivery,S. Iyer
+ORD1568,03/06/2024,Myra Gupta,  Electronics  ,Bluetooth Speaker,West,Mumbai,2,4244.44,0,8488.88,debit card,T. Joshi
+ORD1026,01/13/2025,Isha Kapoor,BEAUTY,Shampoo,north,Lucknow,5,3441.55,0.15,14626.59,Credit Card,P. Nair
+ORD1209,20-Dec-2025,Vivaan Gupta,Apparel,Baseball Cap,NORTH,Lucknow,7,9574.71,0.25,50267.23,CREDIT CARD,A. Sharma
+ORD1917,03-Aug-2025,Reyansh Kumar,sports,Badminton Racket,West,Ahmedabad,10,2822.84,0.2,22582.72,Net Banking,P. Nair
+ORD1031,27/09/2025,Vivaan Das,APPAREL,Men's T-Shirt,  East  ,Bhubaneswar,4,17099.36,0,68397.44,UPI,N. Gupta
+ORD1293,19/01/2025,Aarav Kumar,  Sports  ,Dumbbell Set,  North  ,Chandigarh,5,23798.8,0,118994,UPI,S. Iyer
+ORD1288,02/01/2024,Karan Singh,books,Children's Storybook,East,Kolkata,7,7774.56,0.1,48979.73,DEBIT CARD,S. Iyer
+ORD1225,2024-04-21,Sneha Rao,sports,Badminton Racket,West,Ahmedabad,9,1063.61,0.15,8136.62,  Cash on Delivery  ,R. Verma
+ORD1638,28/03/2024,Kabir Menon,APPAREL,Men's T-Shirt,EAST,Bhubaneswar,8,22697.11,0.15,154340.35,  Cash on Delivery  ,T. Joshi
+ORD1358,07-Jul-2024,Pooja Das,Beauty,Hair Dryer,  West  ,Ahmedabad,2,,0.15,33376.41,CASH ON DELIVERY,P. Nair
+ORD1267,2025-08-28,Isha Patel,electronics,Webcam,north,Chandigarh,10,19645.0,0.05,186627.5,NET BANKING,M. Reddy
+ORD1135,08/08/2024,Ravi Bose,home & kitchen,Cutlery Set,SOUTH,Hyderabad,10,280.49,0,2804.9,,K. Singh
+ORD1106,03-Apr-2024,Neha Kumar,Sports,Skipping Rope,north,Chandigarh,5,9451.38,0,47256.9,net banking,R. Verma
+ORD1008,05/26/2024,Isha Pillai,Home & Kitchen,Air Fryer,EAST,Kolkata,6,5433.77,0.25,24451.97,NET BANKING,T. Joshi
+ORD1126,13-Nov-2024,Karan Iyer,  Home & Kitchen  ,Blender,East,Kolkata,6,7859.26,0.2,37724.45,Debit Card,R. Verma
+ORD1594,2025-09-08,Reyansh Verma,Electronics,Wireless Mouse,West,Mumbai,2,Rs.7645.9,0,15291.8,credit card,R. Verma
+ORD1989,2024-01-22,Vihaan Iyer,apparel,Baseball Cap,  South  ,Bengaluru,1,24451.06,0.25,18338.3,NET BANKING,R. Verma
+ORD1959,29-Jul-2025,Sai Pillai,BEAUTY,Nail Polish,  East  ,Kolkata,9,18523.18,0,166708.62,  Debit Card  ,S. Iyer
+ORD1510,08-Apr-2025,Vivaan Gupta,beauty,Face Wash,east,Bhubaneswar,4,20453.28,0,81813.12,Debit Card,S. Iyer
+ORD1379,26-Oct-2025,Isha Kapoor,  Home & Kitchen  ,Vacuum Cleaner,North,Lucknow,6,9794.11,0.25,44073.5,Credit Card,A. Sharma
+ORD1701,05/25/2024,Diya Patel,beauty,Shampoo,SOUTH,Hyderabad,10,10257.64,0,102576.4,CASH ON DELIVERY,P. Nair
+ORD1609,29-Jan-2024,Karan Chatterjee,Electronics,Portable SSD,East,Bhubaneswar,10,16960.72,0.1,152646.48,UPI,A. Sharma
+ORD1798,26-Nov-2025,Karan Bhatt,Books,Fiction Novel,East,Kolkata,4,21200.9,0.2,67842.88,  UPI  ,M. Reddy
+ORD1597,23/01/2025,Ravi Das,ELECTRONICS,Bluetooth Speaker,South,Hyderabad,10,4750.38,0,47503.8,DEBIT CARD,M. Reddy
+ORD1556,2024-04-23,Arjun Iyer,books,Cookbook,EAST,Kolkata,1,17351.43,0,17351.43,UPI,S. Iyer
+ORD1200,16-Oct-2024,Ravi Joshi,apparel,Winter Jacket,  North  ,Lucknow,10,17638.65,0.2,141109.2,Debit Card,M. Reddy
+ORD1679,21/07/2024,Isha Bhatt,  Beauty  ,Lipstick,west,Pune,10,19740.29,0.25,148052.18,upi,N. Gupta
+ORD1549,05-Jan-2024,Ananya Malhotra,apparel,Running Shoes,North,Lucknow,10,23764.91,0.1,213884.19,upi,N. Gupta
+ORD1974,11/29/2025,Diya Sharma,books,Fiction Novel,south,Bengaluru,6,19393.48,0,116360.88,UPI,S. Iyer
+ORD1840,03/12/2025,Priya Rao,BEAUTY,Sunscreen SPF50,  North  ,Delhi,,7765.18,0.05,66392.29,DEBIT CARD,M. Reddy
+ORD1120,26-Mar-2025,Karan Pillai,ELECTRONICS,Laptop Stand,West,Pune,8,17076.17,0.15,116117.96,upi,S. Iyer
+ORD1453,30/11/2024,Meera Sharma,Sports,Dumbbell Set,south,Hyderabad,7,1495.08,0,10465.56,UPI,S. Iyer
+ORD1081,09-May-2024,Ravi Chatterjee,  Sports  ,Yoga Mat,EAST,Patna,7,24712.09,0,172984.63,  Net Banking  ,A. Sharma
+ORD1915,16/07/2024,Pooja Patel,Apparel,Women's Jeans,east,Patna,8,18668.08,0.25,112008.48,net banking,N. Gupta
+ORD1983,2024-12-26,Neha Bhatt,  Sports  ,Skipping Rope,South,Chennai,3,3022.24,0,9066.72,CASH ON DELIVERY,M. Reddy
+ORD1710,08/05/2025,Meera Reddy,home & kitchen,Non-stick Pan,east,Bhubaneswar,1,5022.76,0.2,4018.21,Credit Card,K. Singh
+ORD1302,2025-09-01,Vivaan Rao,Apparel,Winter Jacket,SOUTH,Bengaluru,2,24708.76,0.2,39534.02,debit card,S. Iyer
+ORD1212,01/28/2025,Myra Singh,Apparel,Running Shoes,west,Mumbai,10,6125.73,0.2,49005.84,cash on delivery,M. Reddy
+ORD1699,27/04/2024,Isha Joshi,HOME & KITCHEN,Air Fryer,North,Delhi,10,14712.82,,110346.15,Cash on Delivery,N. Gupta
+ORD1672,2025-07-29,Vivaan Bose,BOOKS,Children's Storybook,North,Lucknow,8,24071.78,0,192574.24,Credit Card,R. Verma
+ORD1735,26/07/2024,Reyansh Pillai,HOME & KITCHEN,Cutlery Set,west,Pune,7,16006.92,0,112048.44,Debit Card,P. Nair
+ORD1883,2024-04-09,Priya Joshi,home & kitchen,Bed Sheet Set,West,Mumbai,4,24925.69,0,99702.76,DEBIT CARD,T. Joshi
+ORD1698,2024-11-27,Aarav Verma,Apparel,Men's T-Shirt,east,Kolkata,5,9840.0,0.15,41820,debit card,N. Gupta
+ORD1810,31/07/2024,Aarav Chatterjee,HOME & KITCHEN,Coffee Maker,South,Chennai,9,20463.95,0.25,138131.66,Credit Card,R. Verma
+ORD1914,2025-05-08,Arjun Iyer,  Home & Kitchen  ,Coffee Maker,  South  ,Bengaluru,4,2223.55,0,8894.2,UPI,K. Singh
+ORD1768,02/12/2024,Isha Iyer,Apparel,Formal Shirt,West,Pune,7,5228.98,0,36602.86,Debit Card,T. Joshi
+ORD1404,28/12/2024,Priya Kumar,Home & Kitchen,Vacuum Cleaner,east,Kolkata,2,13930.6,0,27861.2,Net Banking,M. Reddy
+ORD1764,2024-02-14,,Home & Kitchen,Non-stick Pan,West,Mumbai,2,16500.35,0.1,29700.63,CASH ON DELIVERY,M. Reddy
+ORD1655,19/06/2025,Neha Gupta,BEAUTY,Shampoo,east,Bhubaneswar,8,7614.77,0,60918.16,UPI,P. Nair
+ORD1707,18-Nov-2025,Ravi Chatterjee,ELECTRONICS,Laptop Stand,west,Ahmedabad,9,2166.55,0,19498.95,  Cash on Delivery  ,A. Sharma
+ORD1496,04/10/2024,Diya Reddy,  Sports  ,Yoga Mat,WEST,Ahmedabad,6,23102.37,0.1,124752.8,UPI,S. Iyer
+ORD1539,2025-07-21,Arjun Gupta,electronics,Bluetooth Speaker,East,Patna,8,19047.26,0.1,137140.27,Debit Card,S. Iyer
+ORD1016,25/12/2025,Aarav Pillai,APPAREL,Winter Jacket,  North  ,Chandigarh,9,5868.35,0.05,50174.39,Credit Card,R. Verma
+ORD1835,13-Feb-2025,Reyansh Nair,Electronics,Laptop Stand,  South  ,Chennai,7,12303.34,0.25,64592.54,DEBIT CARD,M. Reddy
+ORD1932,11/02/2025,Isha Malhotra,BOOKS,Self-Help Book,west,Pune,2,8610.19,0.15,14637.32,UPI,T. Joshi
+ORD1437,09-Jul-2025,Diya Mehta,Books,Biography,east,Patna,1,12209.76,0.25,9157.32,Cash on Delivery,K. Singh
+ORD1102,21/09/2025,Aditya Malhotra,  Books  ,Biography,NORTH,Lucknow,8,19483.72,0,155869.76,Net Banking,P. Nair
+ORD1375,08/27/2025,Aditya Gupta,Apparel,Winter Jacket,EAST,Patna,1,Rs.21262.24,0,21262.24,CASH ON DELIVERY,N. Gupta
+ORD1452,03/20/2025,Myra Verma,Books,Business Guide,NORTH,Lucknow,10,9631.42,0,96314.2,  UPI  ,M. Reddy
+ORD1542,2025-08-16,Vivaan Chatterjee,electronics,Noise Cancelling Headphones,North,Chandigarh,2,5410.2,0.25,8115.3,CASH ON DELIVERY,S. Iyer
+ORD1300,2025-08-09,Kabir Bhatt,Books,Cookbook,west,Ahmedabad,1,21043.81,0.2,16835.05,  Cash on Delivery  ,T. Joshi
+ORD1892,2024-03-11,Aarav Rao,SPORTS,Football,North,Delhi,5,6413.97,0,32069.85,Credit Card,S. Iyer
+ORD1263,21-Aug-2024,Karan Singh,SPORTS,Resistance Bands,north,Chandigarh,6,Rs.4059.15,0,24354.9,cash on delivery,R. Verma
+ORD1726,04/22/2025,Sai Bose,Home & Kitchen,Air Fryer,East,Kolkata,1,12473.88,0,12473.88,DEBIT CARD,P. Nair
+ORD1829,20-Oct-2025,Myra Mehta,electronics,Smartwatch,EAST,Bhubaneswar,4,205.52,0.2,657.66,Debit Card,K. Singh
+ORD1175,09/05/2024,Pooja Mehta,Home & Kitchen,Cutlery Set,  South  ,Bengaluru,9,17449.86,0,157048.74,CREDIT CARD,P. Nair
+ORD1468,05/29/2024,Karan Singh,home & kitchen,Blender,west,Mumbai,6,1835.18,0,11011.08,DEBIT CARD,M. Reddy
+ORD1897,2024-08-02,Isha Rao,Sports,Dumbbell Set,  North  ,Delhi,9,19393.45,0.2,139632.84,Debit Card,M. Reddy
+ORD1460,2025-07-15,Rohan Malhotra,ELECTRONICS,Noise Cancelling Headphones,north,Chandigarh,1,8397.14,0.05,7977.28,DEBIT CARD,K. Singh
+ORD1345,06-Feb-2025,Diya Rao,  Electronics  ,Wireless Mouse,south,Chennai,2,6469.09,0.05,12291.27,Debit Card,R. Verma
+ORD1754,25-Feb-2025,Reyansh Bhatt,BOOKS,Fiction Novel,South,Bengaluru,5,16716.42,0,83582.1,DEBIT CARD,T. Joshi
+ORD1469,04/19/2024,Neha Patel,BOOKS,Fiction Novel,East,Bhubaneswar,8,18678.4,0.1,134484.48,DEBIT CARD,P. Nair
+ORD1799,27-Nov-2025,Aarav Bhatt,apparel,Winter Jacket,NORTH,Chandigarh,8,8000.77,0.1,57605.54,debit card,T. Joshi
+ORD1967,15-Apr-2025,Sneha Chatterjee,HOME & KITCHEN,Vacuum Cleaner,East,Patna,9,1709.73,0,15387.57,upi,M. Reddy
+ORD1620,2024-07-15,Ananya Mehta,Apparel,Yoga Pants,EAST,Bhubaneswar,10,6017.83,0.05,57169.39,Credit Card,S. Iyer
+ORD1716,20-Apr-2024,Neha Sharma,books,Fiction Novel,North,Chandigarh,10,19960.94,0.15,169667.99,UPI,P. Nair
+ORD1910,2025-02-04,Myra Mehta,Sports,Dumbbell Set,North,Delhi,3,2455.51,0.25,5524.9,upi,P. Nair
+ORD1454,2024-10-23,Priya Bose,beauty,Sunscreen SPF50,SOUTH,Bengaluru,10,14445.08,0,144450.8,DEBIT CARD,N. Gupta
+ORD1887,2024-09-07,Neha Kapoor,Beauty,Perfume,east,Kolkata,8,6681.26,0,53450.08,CASH ON DELIVERY,A. Sharma
+ORD1787,2025-06-18,Reyansh Sharma,sports,Dumbbell Set,North,Delhi,10,19761.8,0,197618,CREDIT CARD,P. Nair
+ORD1640,05/31/2025,Ravi Das,ELECTRONICS,Wireless Mouse,  East  ,Kolkata,10,23492.15,0,234921.5,Credit Card,K. Singh
+ORD1660,03/30/2024,Priya Menon,electronics,Laptop Stand,WEST,Pune,8,7674.58,0.15,52187.14,NET BANKING,K. Singh
+ORD1508,04/27/2024,Karan Kumar,HOME & KITCHEN,Vacuum Cleaner,  West  ,Pune,9,17399.21,0,156592.89,Credit Card,T. Joshi
+ORD1639,24/07/2025,Priya Reddy,electronics,Webcam,South,Chennai,7,17755.06,0.1,111856.88,CREDIT CARD,R. Verma
+ORD1814,07-Feb-2024,Vihaan Menon,Beauty,Nail Polish,EAST,Patna,9,12838.17,0,115543.53,  Credit Card  ,P. Nair
+ORD1867,2025-01-28,Kabir Chatterjee,SPORTS,Skipping Rope,EAST,Kolkata,7,13801.08,0.25,72455.67,Cash on Delivery,P. Nair
+ORD1827,16/05/2024,,  Books  ,Business Guide,North,Lucknow,9,22609.4,0,203484.6,credit card,M. Reddy
+ORD1748,24-Jun-2024,Kabir Patel,ELECTRONICS,Portable SSD,East,Kolkata,9,1888.99,0,17000.91,upi,A. Sharma
+ORD1781,15-Sep-2024,Karan Gupta,Books,Business Guide,WEST,Pune,9,22762.24,0.2,163888.13,  Debit Card  ,N. Gupta
+ORD1744,13/12/2024,Karan Iyer,Beauty,Face Moisturizer,east,Kolkata,5,23592.35,0,117961.75,Net Banking,M. Reddy
+ORD1728,22/07/2024,Myra Bose,home & kitchen,Non-stick Pan,North,Delhi,4,15838.66,0.15,53851.44,  Credit Card  ,A. Sharma
+ORD1711,07-Mar-2024,Isha Pillai,  Beauty  ,Nail Polish,South,Hyderabad,10,14193.73,0,141937.3,  Cash on Delivery  ,S. Iyer
+ORD1952,2025-04-29,Isha Rao,books,Cookbook,SOUTH,Hyderabad,10,22968.76,0.1,206718.84,Debit Card,A. Sharma
+ORD1870,19-Dec-2025,Diya Chatterjee,ELECTRONICS,Laptop Stand,NORTH,Lucknow,1,17448.64,0.2,13958.91,UPI,A. Sharma
+ORD1136,05/03/2024,Kabir Patel,apparel,Yoga Pants,North,Chandigarh,2,,0.2,2138.51,  Cash on Delivery  ,T. Joshi
+ORD1637,2025-02-22,Meera Reddy,Sports,Cricket Bat,west,Mumbai,5,18208.7,0.05,86491.32,NET BANKING,S. Iyer
+ORD1789,22/05/2024,Vivaan Das,  Home & Kitchen  ,Air Fryer,West,Ahmedabad,6,20185.81,0,121114.86,  Net Banking  ,N. Gupta
+ORD1248,27/10/2025,Ananya Bose,Electronics,Webcam,  North  ,Delhi,8,166.8,,1067.52,DEBIT CARD,S. Iyer
+ORD1320,05/27/2025,Ravi Verma,HOME & KITCHEN,LED Desk Lamp,west,Mumbai,10,14570.78,0,145707.8,NET BANKING,P. Nair
+ORD1306,2024-12-11,Arjun Joshi,Apparel,Yoga Pants,north,Chandigarh,1,18681.88,0.1,16813.69,upi,A. Sharma
+ORD1376,2024-05-17,Pooja Malhotra,apparel,Men's T-Shirt,East,Patna,3,9240.59,0.05,26335.68,Cash on Delivery,K. Singh
+ORD1857,01/21/2025,Rohan Chatterjee,apparel,Women's Jeans,WEST,Mumbai,2,18149.03,0,36298.06,CREDIT CARD,R. Verma
+ORD1973,06-Oct-2025,Ananya Rao,  Sports  ,Cycling Helmet,SOUTH,Bengaluru,9,20245.5,0.05,173099.02,Credit Card,A. Sharma
+ORD1543,2024-01-15,Diya Malhotra,Apparel,Women's Jeans,north,Lucknow,1,11859.81,0,11859.81,debit card,S. Iyer
+ORD1676,06/13/2025,Rohan Kapoor,Apparel,Yoga Pants,WEST,Pune,6,23601.95,0.25,106208.78,,A. Sharma
+ORD1756,01/11/2024,Rohan Chatterjee,Electronics,Webcam,  North  ,Delhi,6,18687.04,0.05,106516.13,NET BANKING,A. Sharma
+ORD1626,28/05/2024,Vihaan Nair,  Beauty  ,Face Moisturizer,WEST,Ahmedabad,6,13711.76,0.25,61702.92,DEBIT CARD,K. Singh
+ORD1398,13-Feb-2025,Vivaan Das,beauty,Sunscreen SPF50,SOUTH,Hyderabad,4,16427.23,0,65708.92,CREDIT CARD,K. Singh
+ORD1147,30/03/2025,Karan Verma,Apparel,Formal Shirt,East,Bhubaneswar,10,3962.94,0.25,29722.05,  UPI  ,M. Reddy
+ORD1634,07/22/2024,Kabir Sharma,  Apparel  ,Yoga Pants,West,Ahmedabad,1,23089.34,0.05,21934.87,Credit Card,T. Joshi
+ORD1815,09/29/2025,Diya Menon,APPAREL,Running Shoes,East,Kolkata,9,5518.59,0.15,42217.21,  UPI  ,S. Iyer
+ORD1462,26/10/2024,Aarav Gupta,beauty,Hair Dryer,NORTH,Chandigarh,7,16560.26,0.15,98533.55,CREDIT CARD,A. Sharma
+ORD1596,07/04/2025,Karan Sharma,  Apparel  ,Winter Jacket,north,Delhi,9,5542.4,0.05,47387.52,upi,S. Iyer
+ORD1141,24/10/2025,Vivaan Kumar,home & kitchen,Vacuum Cleaner,North,Delhi,5,12957.28,,48589.8,upi,A. Sharma
+ORD1902,2025-04-20,Rohan Bhatt,home & kitchen,Air Fryer,south,Bengaluru,7,2995.35,0.25,15725.59,CREDIT CARD,M. Reddy
+ORD1958,2024-10-24,Rohan Verma,sports,Yoga Mat,WEST,Ahmedabad,2,1509.11,0,3018.22,  UPI  ,R. Verma
+ORD1703,2025-08-22,Reyansh Menon,APPAREL,Men's T-Shirt,north,Chandigarh,5,21011.27,0.2,84045.08,UPI,P. Nair
+ORD1750,05/29/2025,Ravi Singh,apparel,Baseball Cap,  West  ,Ahmedabad,,14441.02,0.1,129969.18,  Cash on Delivery  ,P. Nair
+ORD1955,04/24/2025,Neha Nair,Books,Biography,  South  ,Chennai,3,13235.3,0.15,33750.01,Cash on Delivery,M. Reddy
+ORD1027,27/09/2024,Myra Menon,Home & Kitchen,Blender,West,Ahmedabad,9,344.4,0.1,2789.64,CREDIT CARD,S. Iyer
+ORD1156,2025-09-24,Vivaan Sharma,books,Children's Storybook,EAST,Patna,2,1279.73,0.1,2303.51,debit card,N. Gupta
+ORD1890,10-Apr-2025,Arjun Kumar,apparel,Yoga Pants,east,Kolkata,10,12234.43,0.25,91758.23,Credit Card,K. Singh
+ORD1581,03/31/2024,Myra Malhotra,BEAUTY,Shampoo,south,Bengaluru,9,24667.96,0,222011.64,cash on delivery,N. Gupta
+ORD1683,18/10/2024,Kabir Pillai,Books,Fiction Novel,West,Pune,10,17908.98,0.05,170135.31,UPI,K. Singh
+ORD1686,27-May-2024,Karan Malhotra,HOME & KITCHEN,Air Fryer,WEST,Pune,7,24913.32,0.25,130794.93,Net Banking,S. Iyer
+ORD1650,2024-04-04,Vivaan Patel,Books,Business Guide,  South  ,Bengaluru,6,19983.95,0,119903.7,Cash on Delivery,N. Gupta
+ORD1516,10/04/2025,Diya Rao,books,Biography,South,Bengaluru,8,22355.52,0.2,143075.33,Cash on Delivery,S. Iyer
+ORD1579,11/11/2024,Neha Das,Home & Kitchen,Air Fryer,South,Hyderabad,7,9414.85,0.1,59313.56,upi,M. Reddy
+ORD1100,27/06/2024,Meera Sharma,apparel,Winter Jacket,east,Kolkata,5,21481.39,,107406.95,DEBIT CARD,K. Singh
+ORD1854,25-Aug-2024,Kabir Kumar,Books,Children's Storybook,SOUTH,Chennai,5,5217.38,0.2,20869.52,debit card,T. Joshi
+ORD1899,17-Jan-2025,Neha Kapoor,Sports,Resistance Bands,East,Patna,6,2967.49,0,17804.94,Net Banking,N. Gupta
+ORD1167,01/12/2025,Sneha Bhatt,Sports,Cycling Helmet,east,Patna,8,17762.18,0.1,127887.7,  Net Banking  ,A. Sharma
+ORD1874,10/05/2024,Reyansh Pillai,sports,Skipping Rope,  West  ,Ahmedabad,9,7754.94,0.05,66304.74,net banking,S. Iyer
+ORD1024,24-Sep-2024,Karan Joshi,ELECTRONICS,USB-C Hub,West,Mumbai,10,14923.8,0,149238,net banking,M. Reddy
+ORD1553,23-Aug-2024,Kabir Bose,electronics,Webcam,north,Delhi,-10,14557.08,0.2,116456.64,Debit Card,M. Reddy
+ORD1205,01-Jun-2025,Neha Iyer,electronics,Bluetooth Speaker,NORTH,Delhi,4,1839.0,0,7356,  Credit Card  ,P. Nair
+ORD1034,2025-11-26,Arjun Mehta,  Apparel  ,Men's T-Shirt,South,Chennai,2,24177.19,0.1,43518.94,UPI,N. Gupta
+ORD1243,2024-03-01,Myra Patel,beauty,Lipstick,East,Patna,10,6793.48,0,67934.8,debit card,N. Gupta
+ORD1566,28-May-2025,Neha Mehta,Home & Kitchen,Bed Sheet Set,EAST,Patna,1,1724.72,0.15,1466.01,NET BANKING,T. Joshi
+ORD1371,2024-04-12,Isha Pillai,books,Fiction Novel,East,Kolkata,8,23795.77,0.15,161811.24,DEBIT CARD,P. Nair
+ORD1636,21-May-2025,Ravi Nair,Electronics,Wireless Mouse,West,,4,17882.06,0.05,67951.83,upi,K. Singh
+ORD1948,08/03/2025,Vivaan Pillai,Sports,Cycling Helmet,EAST,Kolkata,9,17590.62,0,158315.58,Net Banking,T. Joshi
+ORD1661,10/27/2025,Sai Sharma,apparel,Running Shoes,North,Delhi,4,21496.45,0.05,81686.51,net banking,S. Iyer
+ORD1010,01/29/2025,Vivaan Nair,Apparel,Running Shoes,west,Mumbai,3,15742.03,0.2,37780.87,Cash on Delivery,R. Verma
+ORD1011,2025-03-21,Aarav Nair,  Sports  ,Badminton Racket,EAST,Patna,9,18809.31,0.15,143891.22,credit card,K. Singh
+ORD1080,2024-08-27,Pooja Chatterjee,  Sports  ,Resistance Bands,EAST,Patna,8,23331.38,,177318.49,Debit Card,N. Gupta
+ORD1965,2024-02-04,Diya Sharma,ELECTRONICS,Webcam,WEST,Pune,5,11508.49,0.2,46033.96,Credit Card,K. Singh
+ORD1351,26/01/2024,Karan Rao,electronics,Noise Cancelling Headphones,WEST,Ahmedabad,9,7255.31,0.2,52238.23,credit card,R. Verma
+ORD1119,2025-11-02,Diya Joshi,BEAUTY,Sunscreen SPF50,East,Bhubaneswar,2,3789.14,0.05,7199.37,Debit Card,S. Iyer
+ORD1936,2024-04-10,Sneha Rao,Sports,Football,SOUTH,Chennai,9,8443.43,0.25,56993.15,UPI,M. Reddy
+ORD1235,03/04/2025,Myra Nair,APPAREL,Formal Shirt,north,Delhi,3,9426.66,0,28279.98,Cash on Delivery,N. Gupta
+ORD1521,2024-03-03,Vihaan Patel,sports,Badminton Racket,  East  ,Bhubaneswar,5,4312.58,0.1,19406.61,Cash on Delivery,K. Singh
+ORD1908,2025-07-02,Vihaan Singh,Books,Business Guide,  South  ,Chennai,4,16365.19,0.05,62187.72,UPI,P. Nair
+ORD1290,12-Jan-2024,Vihaan Kumar,  Apparel  ,Formal Shirt,  North  ,Delhi,3,15959.24,0,47877.72,UPI,T. Joshi
+ORD1217,25/10/2024,Aditya Das,BEAUTY,Face Wash,north,Delhi,9,2462.65,0.15,18839.27,NET BANKING,A. Sharma
+ORD1050,09/15/2024,Rohan Kumar,Home & Kitchen,Air Fryer,east,Kolkata,6,19066.56,0.2,91519.49,UPI,N. Gupta
+ORD1501,30/01/2024,Aditya Patel,apparel,Baseball Cap,South,Bengaluru,10,22322.24,0.25,167416.8,  Credit Card  ,S. Iyer
+ORD1931,01/14/2024,Kabir Reddy,HOME & KITCHEN,Coffee Maker,East,Patna,2,2017.34,0.25,3026.01,Credit Card,P. Nair
+ORD1895,2024-01-15,Meera Reddy,beauty,Face Wash,North,Lucknow,2,18109.68,0,36219.36,upi,M. Reddy
+ORD1494,05/23/2025,Sai Patel,beauty,Face Wash,south,Hyderabad,6,17789.52,0.1,96063.41,NET BANKING,R. Verma
+ORD1610,14/03/2025,Vihaan Pillai,BEAUTY,Face Moisturizer,SOUTH,Chennai,1,19165.07,0.15,16290.31,net banking,R. Verma
+ORD1145,11/18/2025,Vivaan Das,BOOKS,Biography,east,Bhubaneswar,10,24954.04,0.1,224586.36,Credit Card,R. Verma
+ORD1475,03/26/2025,,sports,Yoga Mat,SOUTH,Hyderabad,1,14008.87,0,14008.87,DEBIT CARD,K. Singh
+ORD1687,29-Apr-2025,Rohan Iyer,BEAUTY,Lipstick,West,Ahmedabad,9,21602.3,0,194420.7,Debit Card,T. Joshi
+ORD1993,10-Mar-2025,Vivaan Nair,home & kitchen,Air Fryer,WEST,Ahmedabad,9,9794.55,0.1,79335.85,Cash on Delivery,T. Joshi
+ORD1334,01-Jan-2025,Sai Nair,Home & Kitchen,Bed Sheet Set,EAST,Bhubaneswar,-1,390.36,0,390.36,debit card,M. Reddy
+ORD1113,16/02/2024,Neha Nair,home & kitchen,Vacuum Cleaner,NORTH,Chandigarh,5,17003.71,0.25,63763.91,cash on delivery,K. Singh
+ORD1733,04/26/2025,Reyansh Iyer,Home & Kitchen,Vacuum Cleaner,North,Lucknow,9,24214.35,0.25,163446.86,debit card,R. Verma
+ORD1550,10/10/2024,Sneha Nair,BEAUTY,Sunscreen SPF50,SOUTH,Bengaluru,10,9143.25,0.05,86860.88,Net Banking,P. Nair
+ORD1361,06/10/2025,Arjun Chatterjee,APPAREL,Winter Jacket,NORTH,Lucknow,2,9739.02,0.1,17530.24,Credit Card,M. Reddy
+ORD1669,08/02/2024,Ravi Nair,Apparel,Winter Jacket,SOUTH,Hyderabad,7,23584.91,0.25,123820.78,  UPI  ,P. Nair
+ORD1408,13/04/2025,Neha Malhotra,apparel,Running Shoes,  North  ,Lucknow,9,959.18,,7337.73,NET BANKING,S. Iyer
+ORD1339,01-Jun-2025,Vihaan Chatterjee,BOOKS,Business Guide,South,Chennai,3,20999.97,0,62999.91,credit card,S. Iyer
+ORD1702,10/30/2025,Neha Bhatt,  Home & Kitchen  ,Blender,South,Hyderabad,8,1188.53,0.25,7131.18,CASH ON DELIVERY,K. Singh
+ORD1938,09/01/2024,Kabir Nair,  Sports  ,Dumbbell Set,  North  ,Lucknow,4,3012.42,0,12049.68,cash on delivery,K. Singh
+ORD1645,02/11/2024,Ravi Mehta,Electronics,USB-C Hub,  South  ,Bengaluru,3,17693.18,0.2,42463.63,Credit Card,T. Joshi
+ORD1595,26/12/2024,Vihaan Sharma,APPAREL,Winter Jacket,South,Hyderabad,2,3767.09,0.1,6780.76,CASH ON DELIVERY,M. Reddy
+ORD1352,29/05/2024,Vivaan Reddy,sports,Cricket Bat,north,Lucknow,5,18792.1,0,93960.5,UPI,K. Singh
+ORD1674,2024-12-15,Sai Reddy,apparel,Formal Shirt,East,Kolkata,8,24245.47,0,193963.76,Debit Card,T. Joshi
+ORD1464,01-Dec-2025,Sneha Patel,Sports,Yoga Mat,NORTH,Delhi,6,12324.83,0,73948.98,Credit Card,M. Reddy
+ORD1463,2025-05-27,Sneha Nair,BOOKS,Biography,south,Chennai,6,12193.85,0,73163.1,DEBIT CARD,P. Nair
+ORD1421,29/11/2024,,Apparel,Baseball Cap,West,Ahmedabad,9,20987.17,0,188884.53,Credit Card,M. Reddy
+ORD1619,10/11/2025,Kabir Iyer,APPAREL,Formal Shirt,West,Mumbai,5,21126.43,0.2,84505.72,,R. Verma
+ORD1323,27/01/2025,Diya Menon,APPAREL,Running Shoes,west,Mumbai,7,15892.17,0.2,88996.15,Net Banking,T. Joshi
+ORD1729,23-Jan-2024,Reyansh Singh,APPAREL,Baseball Cap,south,Bengaluru,6,21211.22,0.05,120903.95,Debit Card,P. Nair
+ORD1439,26-Sep-2025,Reyansh Bhatt,  Beauty  ,Lipstick,West,Pune,6,,0.2,54882.53,DEBIT CARD,A. Sharma
+ORD1855,2024-07-12,Diya Malhotra,books,Business Guide,West,Pune,2,12474.64,0.25,18711.96,DEBIT CARD,S. Iyer
+ORD1184,07/04/2025,Ravi Iyer,BEAUTY,Sunscreen SPF50,SOUTH,Bengaluru,8,18731.21,0.15,127372.23,NET BANKING,T. Joshi
+ORD1368,06-Jan-2024,Vihaan Sharma,HOME & KITCHEN,Blender,East,Patna,9,21887.96,0,196991.64,Credit Card,A. Sharma
+ORD1891,16/03/2025,Isha Kumar,Electronics,Laptop Stand,west,Mumbai,10,928.38,0.2,7427.04,Credit Card,M. Reddy
+ORD1343,11/03/2025,Vihaan Verma,BEAUTY,Sunscreen SPF50,west,Pune,4,21131.29,0.15,71846.39,  Cash on Delivery  ,T. Joshi
+ORD1307,02/03/2025,Sai Joshi,  Home & Kitchen  ,LED Desk Lamp,east,Bhubaneswar,3,7616.94,0.25,17138.11,UPI,K. Singh
+ORD1218,02-Oct-2024,Pooja Joshi,sports,Skipping Rope,North,Lucknow,10,13099.45,0.2,104795.6,DEBIT CARD,S. Iyer
+ORD1971,13/09/2025,Vivaan Menon,BOOKS,Biography,west,Mumbai,5,2994.67,0,14973.35,Net Banking,M. Reddy
+ORD1038,02/19/2025,Myra Bhatt,Sports,Resistance Bands,west,Ahmedabad,3,4917.23,0.2,11801.35,  Debit Card  ,K. Singh
+ORD1314,08/01/2024,,Home & Kitchen,Cutlery Set,East,Kolkata,9,20634.12,0.2,148565.66,Cash on Delivery,R. Verma
+ORD1584,02/05/2024,Ravi Nair,Apparel,Baseball Cap,east,Patna,5,10516.35,0.25,39436.31,Debit Card,A. Sharma
+ORD1189,04/04/2025,Myra Rao,electronics,Bluetooth Speaker,West,Mumbai,3,19258.96,0.2,46221.5,UPI,N. Gupta
+ORD1482,2025-09-26,Ravi Bose,sports,Football,south,Hyderabad,7,11130.6,0,77914.2,DEBIT CARD,K. Singh
+ORD1037,13-Nov-2025,Neha Gupta,sports,Yoga Mat,  South  ,Chennai,6,15635.41,0,93812.46,UPI,K. Singh
+ORD1900,2024-04-01,Myra Rao,Apparel,Running Shoes,West,Pune,5,17597.0,,87985,Credit Card,R. Verma
+ORD1771,04/03/2024,Aditya Reddy,Sports,Yoga Mat,North,Chandigarh,1,15914.02,0,15914.02,  Debit Card  ,S. Iyer
+ORD1871,13/01/2024,Ananya Sharma,ELECTRONICS,Bluetooth Speaker,  West  ,Ahmedabad,3,9226.32,0,27678.96,debit card,R. Verma
+ORD1523,08/28/2025,Meera Mehta,electronics,Smartwatch,EAST,Kolkata,5,21467.78,0,107338.9,  Credit Card  ,S. Iyer
+ORD1479,2024-02-14,Sneha Chatterjee,electronics,Webcam,East,,9,15360.0,0,138240,net banking,N. Gupta
+ORD1234,11/19/2025,Vihaan Bose,SPORTS,Skipping Rope,North,Chandigarh,10,4437.31,0.1,39935.79,cash on delivery,R. Verma
+ORD1103,30/12/2025,Aarav Verma,Electronics,Smartwatch,  West  ,Ahmedabad,8,21205.37,0.2,135714.37,Credit Card,T. Joshi
+ORD1757,2025-04-27,Rohan Malhotra,Home & Kitchen,Coffee Maker,  South  ,Chennai,8,1845.69,0.05,14027.24,NET BANKING,S. Iyer
+ORD1759,12/10/2025,Vihaan Singh,electronics,Smartwatch,South,Chennai,4,17903.14,0.05,68031.93,Net Banking,A. Sharma
+ORD1720,09/04/2025,Priya Bose,Sports,Football,NORTH,Chandigarh,7,22016.46,0,154115.22,  UPI  ,A. Sharma
+ORD1066,27-Sep-2024,Karan Menon,  Sports  ,Cycling Helmet,  West  ,Pune,1,15299.33,0,15299.33,debit card,P. Nair
+ORD1419,07/15/2025,Aditya Reddy,Apparel,Winter Jacket,East,Patna,3,10016.58,0,30049.74,credit card,T. Joshi
+ORD1164,07/02/2025,Sneha Bose,Beauty,Hair Dryer,NORTH,Chandigarh,9,7101.06,0,63909.54,Debit Card,R. Verma
+ORD1264,2024-02-06,Aarav Joshi,Books,Children's Storybook,North,Delhi,1,11873.35,0.2,9498.68,debit card,S. Iyer
+ORD1232,03-Jul-2025,Aarav Reddy,APPAREL,Sneakers,west,Pune,4,7066.87,0,28267.48,cash on delivery,R. Verma
+ORD1561,2025-04-10,Aditya Sharma,  Home & Kitchen  ,LED Desk Lamp,South,Hyderabad,8,16775.53,0,134204.24,NET BANKING,A. Sharma
+ORD1236,16-May-2025,Ananya Malhotra,beauty,Lipstick,  West  ,Pune,9,17381.81,0,156436.29,CASH ON DELIVERY,S. Iyer
+ORD1492,2024-08-01,Neha Verma,  Books  ,Biography,East,Bhubaneswar,9,7588.69,0.15,58053.48,Cash on Delivery,A. Sharma
+ORD1176,2025-07-17,Sai Rao,ELECTRONICS,USB-C Hub,  South  ,Bengaluru,6,17976.35,0,107858.1,DEBIT CARD,A. Sharma
+ORD1807,27-Oct-2025,Myra Menon,Electronics,USB-C Hub,West,Pune,3,16372.0,0.2,39292.8,Credit Card,T. Joshi
+ORD1861,2024-08-19,Kabir Sharma,beauty,Face Wash,south,Bengaluru,4,10764.32,0,43057.28,UPI,K. Singh
+ORD1072,07/12/2024,Karan Rao,  Sports  ,Badminton Racket,East,Kolkata,8,24231.02,0.25,145386.12,  UPI  ,N. Gupta
+ORD1126,2024-11-13,Karan Iyer,Home & Kitchen,Blender,East,Kolkata,6,7859.26,0.2,37724.45,debit card,R. Verma
+ORD1090,2024-11-12,Isha Menon,Apparel,Formal Shirt,South,Hyderabad,5,16992.45,,84962.25,CREDIT CARD,A. Sharma
+ORD1118,06/27/2025,Arjun Joshi,sports,Dumbbell Set,West,Pune,6,19511.08,0,117066.48,Cash on Delivery,R. Verma
+ORD1322,08/02/2024,Arjun Singh,Home & Kitchen,Blender,NORTH,Chandigarh,6,15917.3,0,95503.8,net banking,K. Singh
+ORD1633,01/11/2025,Ananya Pillai,SPORTS,Badminton Racket,SOUTH,Chennai,6,20018.29,0.05,114104.25,CREDIT CARD,N. Gupta
+ORD1972,17-May-2025,Sai Bose,Books,Fiction Novel,South,Chennai,7,3460.43,0.05,23011.86,  Debit Card  ,K. Singh
+ORD1548,02/25/2025,Ravi Iyer,Apparel,Women's Jeans,EAST,Bhubaneswar,4,3705.73,0.1,13340.63,Cash on Delivery,T. Joshi
+ORD1062,2024-02-25,Ananya Patel,Apparel,Baseball Cap,South,Chennai,1,17744.26,,17744.26,UPI,A. Sharma
+ORD1715,03/10/2025,Neha Gupta,beauty,Face Moisturizer,South,Hyderabad,4,5042.39,0.15,17144.13,upi,R. Verma
+ORD1187,19-Nov-2025,Diya Kapoor,beauty,Nail Polish,north,Chandigarh,7,11501.44,0,80510.08,CASH ON DELIVERY,T. Joshi
+ORD1681,2025-03-08,Ananya Sharma,Beauty,Hair Dryer,East,Patna,1,22274.44,0.1,20047,DEBIT CARD,K. Singh
+ORD1402,08/05/2025,Karan Malhotra,beauty,Hair Dryer,WEST,Pune,4,18973.21,0.25,56919.63,NET BANKING,A. Sharma
+ORD1233,03/09/2025,Rohan Nair,  Apparel  ,Formal Shirt,east,Kolkata,5,16816.93,0.25,63063.49,Cash on Delivery,M. Reddy
+ORD1563,02/26/2024,Meera Bhatt,electronics,Smartwatch,  West  ,Pune,10,19892.8,0,198928,Cash on Delivery,M. Reddy
+ORD1073,10/04/2025,Neha Malhotra,HOME & KITCHEN,Coffee Maker,South,Chennai,5,16615.2,0.2,66460.8,CASH ON DELIVERY,A. Sharma
+ORD1478,03/04/2024,Karan Reddy,  Sports  ,Yoga Mat,south,Chennai,8,2390.96,0.15,16258.53,DEBIT CARD,R. Verma
+ORD1271,2024-11-21,Diya Joshi,BEAUTY,Face Moisturizer,west,Ahmedabad,-5,6635.62,0.15,28201.38,Net Banking,M. Reddy
+ORD1112,2025-02-28,Aditya Mehta,apparel,Running Shoes,  North  ,Lucknow,8,16599.18,0.25,99595.08,Cash on Delivery,T. Joshi
+ORD1470,24-Aug-2024,Meera Mehta,apparel,Running Shoes,North,Lucknow,10,14241.02,0.05,135289.69,cash on delivery,P. Nair
+ORD1515,2025-05-13,Diya Patel,Apparel,Yoga Pants,EAST,Bhubaneswar,3,3486.79,0,10460.37,  Credit Card  ,S. Iyer
+ORD1498,16-Oct-2025,Rohan Verma,Books,Children's Storybook,North,Chandigarh,2,13086.36,0.1,23555.45,  Credit Card  ,K. Singh
+ORD1227,04/02/2025,Sneha Kapoor,Electronics,Bluetooth Speaker,east,Kolkata,9,14575.88,0.05,124623.77,  Net Banking  ,M. Reddy
+ORD1330,16/10/2024,Meera Iyer,SPORTS,Dumbbell Set,  East  ,Patna,7,20791.72,0,145542.04,  Cash on Delivery  ,R. Verma
+ORD1562,27/06/2025,Vihaan Bose,SPORTS,Cricket Bat,  West  ,Mumbai,1,21530.51,0,21530.51,Net Banking,M. Reddy
+ORD1427,23/10/2024,Pooja Mehta,Beauty,Hair Dryer,EAST,Patna,7,4821.82,0,33752.74,DEBIT CARD,S. Iyer
+ORD1196,09/03/2024,Neha Rao,Home & Kitchen,Air Fryer,  East  ,Patna,3,7602.23,0,22806.69,CASH ON DELIVERY,T. Joshi
+ORD1337,02/17/2024,Aarav Iyer,beauty,Face Wash,east,Patna,,23021.89,0,184175.12,Net Banking,T. Joshi
+ORD1654,22-May-2025,Neha Gupta,SPORTS,Resistance Bands,South,Chennai,1,12906.54,0.25,9679.91,DEBIT CARD,S. Iyer
+ORD1779,2024-02-05,Vihaan Verma,BOOKS,Cookbook,WEST,Ahmedabad,7,23173.99,0.05,154107.03,DEBIT CARD,T. Joshi
+ORD1029,2025-07-18,Vivaan Sharma,Electronics,Bluetooth Speaker,west,Pune,6,19312.31,0.1,104286.47,debit card,T. Joshi
+ORD1587,05/10/2025,Vihaan Verma,home & kitchen,Bed Sheet Set,  West  ,Ahmedabad,5,7397.85,0,36989.25,CASH ON DELIVERY,P. Nair
+ORD1474,07/04/2025,Priya Kumar,Sports,Skipping Rope,North,Lucknow,7,15345.9,0,107421.3,,R. Verma
+ORD1502,2024-11-15,Vivaan Gupta,SPORTS,Yoga Mat,NORTH,Chandigarh,7,9889.13,0.25,51917.93,cash on delivery,M. Reddy
+ORD1138,14/02/2024,Aditya Kapoor,Home & Kitchen,Vacuum Cleaner,west,Mumbai,6,1831.83,0,10990.98,Net Banking,T. Joshi
+ORD1554,22-Aug-2025,Kabir Rao,  Electronics  ,Noise Cancelling Headphones,South,Bengaluru,4,9481.98,0.05,36031.52,credit card,T. Joshi
+ORD1987,2024-11-22,Rohan Patel,Apparel,Sneakers,  East  ,Kolkata,6,19538.18,0.1,105506.17,DEBIT CARD,K. Singh
+ORD1945,05/31/2024,Arjun Kapoor,sports,Yoga Mat,  East  ,Bhubaneswar,10,12186.22,0.1,109675.98,CASH ON DELIVERY,A. Sharma
+ORD1394,2025-06-04,Sai Joshi,HOME & KITCHEN,Air Fryer,SOUTH,Hyderabad,8,19610.27,0,156882.16,Credit Card,P. Nair
+ORD1383,24-Oct-2025,Arjun Nair,Home & Kitchen,Coffee Maker,south,Chennai,8,,0.25,101576.7,DEBIT CARD,S. Iyer
+ORD1272,22-Apr-2025,Isha Iyer,sports,Cycling Helmet,SOUTH,Bengaluru,10,2857.97,0,28579.7,debit card,T. Joshi
+ORD1779,2024-02-05,Vihaan Verma,books,Cookbook,West,Ahmedabad,7,23173.99,0.05,154107.03,Debit Card,T. Joshi
+ORD1670,2025-03-16,Reyansh Das,beauty,Face Moisturizer,north,Chandigarh,3,4491.66,,13474.98,CREDIT CARD,M. Reddy
+ORD1466,08/09/2025,Diya Gupta,apparel,Formal Shirt,west,Ahmedabad,7,13089.84,0.05,87047.44,Net Banking,P. Nair
+ORD1649,11/28/2024,Reyansh Menon,ELECTRONICS,Webcam,West,Pune,1,,0,8336.26,Cash on Delivery,T. Joshi
+ORD1481,14-Sep-2025,Aarav Menon,apparel,Women's Jeans,  South  ,Bengaluru,5,453.36,0.25,1700.1,Net Banking,A. Sharma
+ORD1329,11/04/2024,Priya Nair,Books,Fiction Novel,west,Pune,9,6430.55,0,57874.95,Debit Card,A. Sharma
+ORD1013,29-Feb-2024,Arjun Malhotra,HOME & KITCHEN,Blender,North,Lucknow,,2929.91,0.15,2490.42,  UPI  ,P. Nair
+ORD1603,16-May-2025,Sneha Mehta,  Books  ,Children's Storybook,West,Pune,3,19234.79,0,57704.37,credit card,K. Singh
+ORD1926,22/05/2024,Sai Das,HOME & KITCHEN,Cutlery Set,WEST,Ahmedabad,10,,0.05,25680.21,CREDIT CARD,A. Sharma
+ORD1207,03/09/2024,Sneha Rao,books,Cookbook,  East  ,Kolkata,3,2809.36,0,8428.08,Cash on Delivery,S. Iyer
+ORD1104,04/09/2025,Meera Iyer,SPORTS,Dumbbell Set,north,Chandigarh,2,3285.86,0.15,5585.96,Net Banking,K. Singh
+ORD1490,12/15/2024,Myra Kapoor,HOME & KITCHEN,LED Desk Lamp,NORTH,Chandigarh,9,8199.51,0,73795.59,Credit Card,M. Reddy
+ORD1310,04/09/2024,Isha Mehta,SPORTS,Yoga Mat,EAST,Patna,6,20614.13,0.2,98947.82,credit card,A. Sharma
+ORD1517,30/08/2024,Vihaan Joshi,  Beauty  ,Face Wash,West,Pune,3,10705.58,0,32116.74,CASH ON DELIVERY,T. Joshi
+ORD1223,10/25/2024,Pooja Singh,Home & Kitchen,Coffee Maker,south,Hyderabad,9,818.87,0.25,5527.37,Debit Card,T. Joshi
+ORD1154,2024-03-21,Diya Patel,sports,Yoga Mat,North,Lucknow,3,4174.88,0.05,11898.41,UPI,K. Singh
+ORD1181,27-Nov-2024,Arjun Gupta,  Beauty  ,Face Wash,West,Ahmedabad,7,16781.01,0,117467.07,Debit Card,T. Joshi
+ORD1657,07/02/2024,Reyansh Pillai,BOOKS,Business Guide,East,Bhubaneswar,2,19250.87,0,38501.74,credit card,T. Joshi
+ORD1183,11-Jan-2025,Sai Bose,books,Cookbook,SOUTH,Bengaluru,5,4118.96,0.1,18535.32,credit card,K. Singh
+ORD1893,04/04/2024,Rohan Rao,Home & Kitchen,Air Fryer,NORTH,Chandigarh,9,5470.51,0.1,44311.13,Debit Card,A. Sharma
+ORD1332,06/01/2024,Ravi Kumar,APPAREL,Men's T-Shirt,WEST,Mumbai,4,218.04,0,872.16,credit card,T. Joshi
+ORD1583,01/03/2024,Karan Patel,HOME & KITCHEN,Cutlery Set,north,Chandigarh,8,14048.13,0.25,84288.78,DEBIT CARD,A. Sharma
+ORD1142,30/01/2025,Arjun Mehta,apparel,Baseball Cap,East,Kolkata,2,20013.66,0.2,32021.86,Net Banking,T. Joshi
+ORD1772,29-Jun-2024,,APPAREL,Winter Jacket,  South  ,Hyderabad,8,7889.85,0.05,59962.86,DEBIT CARD,N. Gupta
+ORD1667,14/05/2024,Rohan Joshi,Books,Self-Help Book,  West  ,Pune,9,5609.6,0.15,42913.44,  Cash on Delivery  ,T. Joshi
+ORD1786,04/05/2025,Priya Nair,apparel,Women's Jeans,East,Kolkata,5,1746.92,0,8734.6,  Cash on Delivery  ,P. Nair
+ORD1559,03/11/2025,Aarav Rao,sports,Football,south,Hyderabad,1,1145.46,0.25,859.1,  Cash on Delivery  ,A. Sharma
+ORD1612,2024-09-30,Ananya Sharma,  Electronics  ,Smartwatch,north,Chandigarh,9,8254.0,,55714.5,NET BANKING,N. Gupta
+ORD1717,2025-08-15,Arjun Kapoor,sports,Football,East,Kolkata,4,23597.16,0.25,70791.48,CREDIT CARD,T. Joshi
+ORD1317,2025-12-03,Neha Chatterjee,BOOKS,Biography,East,Bhubaneswar,7,18457.79,0.05,122744.3,UPI,P. Nair
+ORD1416,17/10/2025,Rohan Gupta,HOME & KITCHEN,Bed Sheet Set,WEST,Ahmedabad,7,15399.54,0.25,80847.58,DEBIT CARD,S. Iyer
+ORD1211,17-Jan-2024,Aditya Mehta,Beauty,Nail Polish,  East  ,Kolkata,9,14153.22,0,127378.98,DEBIT CARD,M. Reddy
+ORD1778,18/09/2024,Vivaan Nair,books,Children's Storybook,North,Chandigarh,7,23313.42,0,163193.94,Debit Card,N. Gupta
+ORD1143,16/03/2025,Ravi Das,home & kitchen,Blender,  West  ,Ahmedabad,9,6778.01,0,61002.09,net banking,R. Verma
+ORD1003,2025-01-24,Neha Kumar,SPORTS,Cycling Helmet,North,Delhi,5,4013.67,0.15,17058.1,Credit Card,R. Verma
+ORD1363,25/01/2024,Neha Nair,  Electronics  ,USB-C Hub,South,Hyderabad,4,13513.19,0.2,43242.21,CREDIT CARD,S. Iyer
+ORD1005,24-Jan-2025,Aditya Verma,Beauty,Perfume,South,Hyderabad,4,19360.75,0,77443,debit card,R. Verma
+ORD1045,24-Aug-2024,Myra Joshi,apparel,Baseball Cap,West,Mumbai,5,8495.81,0,42479.05,  Debit Card  ,S. Iyer
+ORD1963,02-May-2025,Diya Sharma,books,Biography,  North  ,Chandigarh,3,3670.9,0.05,10462.07,Debit Card,P. Nair
+ORD1282,2024-09-10,Vivaan Malhotra,home & kitchen,Vacuum Cleaner,North,Chandigarh,9,9032.21,0.05,77225.4,Debit Card,R. Verma
+ORD1690,2025-05-07,Ravi Sharma,HOME & KITCHEN,LED Desk Lamp,south,Bengaluru,2,13756.3,0,27512.6,Credit Card,N. Gupta
+ORD1203,19/10/2025,Priya Pillai,Apparel,Winter Jacket,East,Kolkata,4,12557.64,0.15,42695.98,upi,T. Joshi
+ORD1303,13-Jan-2024,Priya Bhatt,Home & Kitchen,Bed Sheet Set,North,Delhi,7,13868.55,0.1,87371.86,Cash on Delivery,T. Joshi
+ORD1572,31-Aug-2024,Ananya Bhatt,Home & Kitchen,Cutlery Set,South,Hyderabad,5,4679.67,0,23398.35,debit card,S. Iyer
+ORD1366,2025-09-13,Karan Verma,  Books  ,Children's Storybook,  North  ,,2,9038.85,0,18077.7,UPI,K. Singh
+ORD1359,05/12/2024,Pooja Bhatt,beauty,Shampoo,SOUTH,Chennai,7,2434.85,0.05,16191.75,Debit Card,M. Reddy
+ORD1582,25/01/2025,Ananya Bhatt,Electronics,Portable SSD,  East  ,Bhubaneswar,8,17799.64,0,142397.12,Debit Card,S. Iyer
+ORD1528,30-Sep-2024,Pooja Das,Books,Cookbook,north,Delhi,7,15320.57,0.1,96519.59,UPI,K. Singh
+ORD1372,08/02/2025,Ravi Bose,  Home & Kitchen  ,Coffee Maker,  South  ,Chennai,6,15466.11,0.1,83516.99,CASH ON DELIVERY,S. Iyer
+ORD1607,17-Mar-2025,Rohan Bose,sports,Badminton Racket,east,Bhubaneswar,1,966.57,0.1,869.91,debit card,T. Joshi
+ORD1500,04/10/2024,Meera Bhatt,Apparel,Baseball Cap,North,Delhi,9,2694.03,0.15,20609.33,  Cash on Delivery  ,M. Reddy
+ORD1599,2025-07-21,Ravi Nair,Home & Kitchen,Non-stick Pan,North,Chandigarh,7,7197.74,0.1,45345.76,Net Banking,P. Nair
+ORD1238,13-Aug-2024,Ravi Rao,sports,Badminton Racket,WEST,Ahmedabad,8,12294.18,0,98353.44,cash on delivery,A. Sharma
+ORD1274,24-Nov-2025,Arjun Iyer,Books,Cookbook,North,Delhi,2,17822.26,0.15,30297.84,Net Banking,A. Sharma
+ORD1692,08-Feb-2025,Arjun Gupta,books,Biography,South,Hyderabad,10,16662.88,0.2,133303.04,  Net Banking  ,P. Nair
+ORD1195,2024-02-18,Myra Mehta,BOOKS,Children's Storybook,SOUTH,Chennai,1,13984.45,0,13984.45,NET BANKING,T. Joshi
+ORD1514,05/22/2024,,beauty,Face Wash,East,Patna,7,10964.47,0.05,72913.73,Debit Card,T. Joshi
+ORD1876,10/03/2024,Priya Chatterjee,Sports,Badminton Racket,east,Patna,3,1508.59,0.15,3846.9,,P. Nair
+ORD1628,09/18/2024,Sai Bhatt,  Sports  ,Cycling Helmet,EAST,Patna,4,21462.53,0.2,68680.1,credit card,N. Gupta
+ORD1210,09/12/2025,Arjun Pillai,apparel,Women's Jeans,West,Pune,2,22385.56,0,44771.12,DEBIT CARD,P. Nair
+ORD1163,01/06/2025,Vihaan Chatterjee,Sports,Cricket Bat,East,Patna,6,1274.27,0,7645.62,CASH ON DELIVERY,P. Nair
+ORD1678,2024-10-13,Priya Bhatt,Books,Business Guide,  East  ,Bhubaneswar,5,18080.54,0.15,76842.3,UPI,A. Sharma
+ORD1803,12/27/2025,,SPORTS,Dumbbell Set,east,Bhubaneswar,7,2568.39,0.15,15281.92,Cash on Delivery,A. Sharma
+ORD1088,08/30/2024,Reyansh Bose,  Beauty  ,Hair Dryer,west,Ahmedabad,5,5100.54,0.2,20402.16,Net Banking,R. Verma
+ORD1775,09-Nov-2024,Pooja Iyer,Sports,Dumbbell Set,East,Patna,9,18207.21,0.1,147478.4,Net Banking,T. Joshi
+ORD1615,15-Aug-2025,Reyansh Verma,books,Fiction Novel,south,Chennai,5,24906.26,0.2,99625.04,Debit Card,R. Verma
+ORD1191,12/20/2024,Pooja Rao,Electronics,Wireless Mouse,  East  ,Bhubaneswar,9,9575.02,0.05,81866.42,DEBIT CARD,T. Joshi
+ORD1179,2024-10-06,Meera Nair,  Electronics  ,Wireless Mouse,East,Patna,6,7221.36,0.25,32496.12,Debit Card,T. Joshi
+ORD1393,14/08/2025,Pooja Bhatt,  Home & Kitchen  ,Air Fryer,south,Chennai,8,4591.18,0.25,27547.08,  UPI  ,K. Singh
+ORD1409,19-Sep-2025,Aarav Sharma,electronics,Webcam,EAST,,4,9578.79,0,38315.16,upi,M. Reddy
+ORD1570,2025-04-13,Arjun Rao,Electronics,Wireless Mouse,South,Hyderabad,10,8668.39,0.15,73681.31,net banking,T. Joshi
+ORD1968,12/09/2025,Myra Chatterjee,books,Self-Help Book,  East  ,Patna,2,22916.58,0.25,34374.87,net banking,T. Joshi
+ORD1704,23-Jul-2025,Pooja Pillai,Beauty,Hair Dryer,NORTH,Delhi,2,7620.86,0.2,12193.38,CREDIT CARD,S. Iyer
+ORD1512,01/13/2025,Aarav Menon,BOOKS,Cookbook,North,Lucknow,9,10194.31,0,91748.79,UPI,A. Sharma
+ORD1712,03/01/2024,Reyansh Reddy,apparel,Baseball Cap,SOUTH,Hyderabad,1,24799.99,0.1,22319.99,  Cash on Delivery  ,T. Joshi
+ORD1440,2025-09-19,,home & kitchen,Vacuum Cleaner,east,,7,4868.26,0.25,25558.36,CASH ON DELIVERY,S. Iyer
+ORD1472,15-Aug-2024,Isha Joshi,SPORTS,Badminton Racket,South,Bengaluru,1,10303.44,0,10303.44,upi,N. Gupta
+ORD1399,2025-07-26,Isha Kapoor,HOME & KITCHEN,Air Fryer,WEST,Ahmedabad,1,18462.6,0,18462.6,credit card,K. Singh
+ORD1593,04/20/2024,Sai Gupta,  Apparel  ,Running Shoes,north,Chandigarh,1,19401.1,0.2,15520.88,Credit Card,P. Nair
+ORD1651,2024-10-18,Priya Gupta,  Sports  ,Cycling Helmet,SOUTH,Bengaluru,1,21330.79,0,21330.79,net banking,N. Gupta
+ORD1709,2025-05-20,Aarav Mehta,Apparel,Sneakers,North,Delhi,6,4909.07,0.1,26508.98,debit card,P. Nair
+ORD1877,07/03/2024,Meera Kumar,Electronics,Bluetooth Speaker,North,Chandigarh,1,6102.32,0,6102.32,  Cash on Delivery  ,R. Verma
+ORD1044,10/03/2025,Ravi Bose,beauty,Face Wash,WEST,Mumbai,5,18831.65,0.1,84742.43,cash on delivery,T. Joshi
+ORD1262,05/23/2025,Arjun Rao,books,Cookbook,North,Delhi,5,13167.78,0.1,59255.01,cash on delivery,R. Verma
+ORD1567,13/04/2025,Pooja Bhatt,beauty,Shampoo,west,Ahmedabad,5,11381.66,0.15,48372.06,CREDIT CARD,P. Nair
+ORD1430,02/05/2025,Rohan Verma,Sports,Cycling Helmet,WEST,Pune,6,2143.54,0,12861.24,Credit Card,K. Singh
+ORD1229,09-Mar-2024,Sneha Malhotra,Home & Kitchen,Bed Sheet Set,west,Mumbai,6,11982.64,0.25,53921.88,Net Banking,M. Reddy
+ORD1006,06/30/2025,Vihaan Das,home & kitchen,Cutlery Set,East,Kolkata,4,16803.85,0,67215.4,cash on delivery,S. Iyer
+ORD1990,16-Sep-2025,Karan Chatterjee,Sports,Yoga Mat,East,Bhubaneswar,5,20705.39,0,103526.95,Credit Card,K. Singh
+ORD1820,07/18/2025,Myra Pillai,electronics,Bluetooth Speaker,south,Hyderabad,8,2524.18,0.15,17164.42,CASH ON DELIVERY,K. Singh
+ORD1319,15-Jan-2025,Arjun Gupta,Books,Children's Storybook,South,Hyderabad,4,8978.79,0.1,32323.64,Net Banking,M. Reddy
+ORD1881,25-Aug-2024,,Beauty,Face Wash,West,Ahmedabad,3,3915.71,0.25,8810.35,credit card,R. Verma
+ORD1313,20/01/2025,Ananya Menon,ELECTRONICS,Wireless Mouse,west,Mumbai,1,5710.69,0.1,5139.62,UPI,N. Gupta
+ORD1076,04/05/2024,Meera Joshi,sports,Dumbbell Set,north,Lucknow,3,7872.14,0,23616.42,Cash on Delivery,N. Gupta
+ORD1174,2025-11-02,Vihaan Iyer,BOOKS,Children's Storybook,WEST,Pune,5,1195.35,0,5976.75,UPI,T. Joshi
+ORD1842,03/17/2025,Aarav Verma,Home & Kitchen,Non-stick Pan,south,Bengaluru,6,5417.64,0.25,24379.38,UPI,R. Verma
+ORD1052,12/01/2025,Diya Malhotra,apparel,Men's T-Shirt,South,Bengaluru,2,14164.64,0.05,26912.82,net banking,K. Singh
+ORD1552,10-Jun-2024,Meera Bose,APPAREL,Yoga Pants,EAST,Bhubaneswar,1,2744.86,0,2744.86,CASH ON DELIVERY,S. Iyer
+ORD1797,13-Aug-2025,Karan Reddy,electronics,Bluetooth Speaker,north,Chandigarh,2,14385.05,0,28770.1,UPI,N. Gupta
+ORD1488,2024-01-25,Ananya Menon,beauty,Nail Polish,West,Pune,4,17758.39,0.05,67481.88,credit card,R. Verma
+ORD1221,05-May-2025,Arjun Rao,beauty,Face Wash,  East  ,Bhubaneswar,10,3532.69,0.15,30027.87,CASH ON DELIVERY,P. Nair
+ORD1509,12/02/2025,Sai Bose,Beauty,Nail Polish,East,Patna,3,7804.69,0.2,18731.26,credit card,R. Verma
+ORD1586,24-Feb-2024,Karan Verma,BEAUTY,Face Moisturizer,East,Kolkata,3,8094.08,0,24282.24,UPI,S. Iyer
+ORD1388,05/04/2024,Sai Singh,APPAREL,Yoga Pants,  South  ,Hyderabad,8,22554.96,0,180439.68,cash on delivery,R. Verma
+ORD1094,09/16/2025,Priya Das,Books,Business Guide,East,Patna,2,Rs.16919.69,0.25,25379.53,CREDIT CARD,M. Reddy
+ORD1149,05/18/2024,Rohan Reddy,SPORTS,Dumbbell Set,East,Bhubaneswar,10,7246.59,0.25,54349.42,  Debit Card  ,R. Verma
+ORD1483,11/14/2025,Ananya Iyer,  Books  ,Children's Storybook,SOUTH,Bengaluru,1,16383.93,0,16383.93,DEBIT CARD,A. Sharma
+ORD1853,03/10/2025,Reyansh Singh,Electronics,Wireless Mouse,  East  ,Kolkata,5,24294.38,0,121471.9,Net Banking,K. Singh
+ORD1250,06/15/2025,Aditya Nair,home & kitchen,Vacuum Cleaner,WEST,Ahmedabad,1,5453.52,0,5453.52,,P. Nair
+ORD1341,04/02/2025,Aditya Bose,Books,Biography,West,Mumbai,8,20061.34,0.25,120368.04,  Credit Card  ,T. Joshi
+ORD1809,04/11/2024,Sai Pillai,beauty,Nail Polish,  East  ,Patna,3,9691.4,0.2,23259.36,UPI,S. Iyer
+ORD1201,23-Nov-2024,Reyansh Das,  Sports  ,Badminton Racket,East,Bhubaneswar,9,22087.88,0.25,149093.19,CREDIT CARD,T. Joshi
+ORD1092,18-Mar-2024,Reyansh Malhotra,BEAUTY,Perfume,  East  ,Kolkata,5,18702.0,0.15,79483.5,CREDIT CARD,T. Joshi
+ORD1541,17-Jan-2024,Priya Gupta,apparel,Men's T-Shirt,  South  ,Chennai,9,16138.68,0.25,108936.09,  Cash on Delivery  ,T. Joshi
+ORD1443,12/01/2025,Isha Malhotra,  Home & Kitchen  ,Vacuum Cleaner,NORTH,Delhi,2,11781.27,0,23562.54,UPI,N. Gupta
+ORD1986,10/07/2025,Meera Chatterjee,Books,Self-Help Book,East,Kolkata,8,16490.93,0,131927.44,  Credit Card  ,K. Singh
+ORD1281,2024-01-27,Ravi Das,books,Cookbook,WEST,Ahmedabad,10,12634.47,0.2,101075.76,UPI,S. Iyer
+ORD1411,29/08/2024,,Sports,Resistance Bands,East,Bhubaneswar,3,14349.53,0.05,40896.16,Credit Card,K. Singh
+ORD1865,14/08/2025,Diya Kumar,  Electronics  ,Wireless Mouse,SOUTH,Hyderabad,3,9856.4,0.25,22176.9,Credit Card,R. Verma
+ORD1569,12/07/2024,Pooja Iyer,Apparel,Men's T-Shirt,  East  ,Bhubaneswar,8,8765.5,0.25,52593,CREDIT CARD,K. Singh
+ORD1616,31-May-2025,Karan Kapoor,electronics,Noise Cancelling Headphones,East,Kolkata,8,10763.58,0.15,73192.34,credit card,K. Singh
+ORD1927,12/05/2025,Ananya Gupta,electronics,Noise Cancelling Headphones,West,Mumbai,4,18144.08,0.15,61689.87,Cash on Delivery,A. Sharma
+ORD1336,07/04/2024,Diya Verma,Sports,Skipping Rope,South,Bengaluru,3,2727.27,0.25,6136.36,  Cash on Delivery  ,T. Joshi
+ORD1872,11-Dec-2024,Ravi Iyer,Beauty,Face Wash,South,Bengaluru,9,,0.1,141825.41,Net Banking,N. Gupta
+ORD1858,10-Jan-2024,Vivaan Iyer,Sports,Yoga Mat,  North  ,Delhi,4,19287.42,0.1,69434.71,debit card,A. Sharma
+ORD1924,07/04/2024,,HOME & KITCHEN,Blender,WEST,Mumbai,1,8534.14,0,8534.14,Credit Card,T. Joshi
+ORD1507,03/08/2024,Neha Joshi,BEAUTY,Nail Polish,west,Ahmedabad,10,6205.72,0,62057.2,Net Banking,N. Gupta
+ORD1753,2025-02-06,Ananya Menon,BEAUTY,Lipstick,  West  ,Mumbai,7,11527.03,0,80689.21,Cash on Delivery,R. Verma
+ORD1760,09/12/2024,Myra Bose,beauty,Shampoo,  West  ,Ahmedabad,1,15015.4,0,15015.4,  Net Banking  ,P. Nair
+ORD1093,19-Nov-2025,Vihaan Gupta,apparel,Winter Jacket,  West  ,Ahmedabad,7,495.88,0,3471.16,  Net Banking  ,M. Reddy
+ORD1743,05/04/2025,Aditya Kumar,Beauty,Nail Polish,WEST,Pune,4,10805.51,0.2,34577.63,,T. Joshi
+ORD1846,2025-10-06,Isha Rao,Beauty,Lipstick,north,Delhi,9,17833.34,0.15,136425.05,UPI,T. Joshi
+ORD1906,26/11/2024,Kabir Nair,sports,Resistance Bands,South,Chennai,3,12680.79,,30433.9,UPI,S. Iyer
+ORD1912,21/12/2024,Aarav Singh,sports,Cricket Bat,  South  ,Chennai,10,15835.65,0,158356.5,credit card,M. Reddy
+ORD1576,2025-02-15,Sai Malhotra,books,Self-Help Book,WEST,Pune,1,3614.67,0,3614.67,UPI,A. Sharma
+ORD1574,26/05/2025,Rohan Bhatt,  Home & Kitchen  ,Bed Sheet Set,SOUTH,Chennai,3,13411.03,0,40233.09,credit card,N. Gupta
+ORD1279,2025-02-25,Diya Verma,apparel,Baseball Cap,East,Bhubaneswar,10,Rs.15536.54,0.05,147597.13,UPI,T. Joshi
+ORD1280,2025-01-26,Reyansh Chatterjee,beauty,Nail Polish,North,Delhi,3,10567.99,0.05,30118.77,CASH ON DELIVERY,A. Sharma
+ORD1338,19-Mar-2025,Sneha Pillai,ELECTRONICS,Smartwatch,East,Kolkata,10,5716.03,0.15,48586.25,CASH ON DELIVERY,R. Verma
+ORD1228,22/12/2024,Ravi Nair,Sports,Cricket Bat,East,Kolkata,5,10486.99,0,52434.95,credit card,S. Iyer
+ORD1009,2025-01-05,Pooja Bhatt,home & kitchen,Blender,  South  ,Hyderabad,5,18713.29,0.2,74853.16,  Cash on Delivery  ,N. Gupta
+ORD1086,25-Aug-2024,Aditya Menon,SPORTS,Cricket Bat,SOUTH,Bengaluru,7,,0.05,103406.17,NET BANKING,S. Iyer
+ORD1904,08/08/2025,Aarav Sharma,APPAREL,Men's T-Shirt,West,Mumbai,3,19794.18,0.15,50475.16,UPI,S. Iyer
+ORD1617,20-Jan-2024,Neha Chatterjee,HOME & KITCHEN,Air Fryer,east,Kolkata,5,15680.35,0.25,58801.31,Cash on Delivery,S. Iyer
+ORD1811,05/11/2024,Ananya Sharma,Books,Fiction Novel,South,Hyderabad,9,11263.74,0.15,86167.61,Credit Card,A. Sharma
+ORD1841,09/09/2024,Vivaan Patel,sports,Yoga Mat,West,Ahmedabad,2,6840.77,0.1,12313.39,upi,N. Gupta
+ORD1097,03/12/2025,Vihaan Reddy,Beauty,Face Wash,EAST,Kolkata,8,11200.69,0.05,85125.24,UPI,R. Verma
+ORD1342,06/04/2025,Aarav Nair,home & kitchen,Coffee Maker,WEST,Ahmedabad,7,10396.61,0,72776.27,CREDIT CARD,K. Singh
+ORD1122,2025-04-05,Aditya Gupta,Electronics,Wireless Mouse,  East  ,Bhubaneswar,10,14912.88,0.2,119303.04,net banking,A. Sharma
+ORD1157,15-Mar-2024,Pooja Patel,books,Fiction Novel,west,Ahmedabad,5,12151.18,0.2,48604.72,UPI,T. Joshi
+ORD1752,02/04/2025,Karan Verma,HOME & KITCHEN,Cutlery Set,west,Pune,2,7304.61,0.25,10956.91,UPI,K. Singh
+ORD1755,02/06/2025,Sai Kapoor,BEAUTY,Shampoo,east,Kolkata,6,10340.89,0,62045.34,UPI,P. Nair
+ORD1682,08/09/2025,Reyansh Kapoor,BEAUTY,Shampoo,NORTH,Chandigarh,6,3226.75,0,19360.5,net banking,K. Singh
+ORD1471,01/31/2025,Ravi Iyer,  Books  ,Fiction Novel,east,Kolkata,9,21176.54,0.25,142941.65,  UPI  ,S. Iyer
+ORD1558,12/01/2024,Ravi Bose,sports,Badminton Racket,South,Hyderabad,5,Rs.510.42,0.2,2041.68,Debit Card,P. Nair
+ORD1294,2024-06-09,Meera Menon,Apparel,Women's Jeans,North,Chandigarh,8,17656.94,0.2,113004.42,debit card,N. Gupta
+ORD1823,11/08/2024,Rohan Kapoor,Sports,Cricket Bat,west,Pune,5,7004.2,0.2,28016.8,cash on delivery,P. Nair
+ORD1746,02-Dec-2024,Isha Chatterjee,APPAREL,Formal Shirt,West,Pune,2,13432.09,0.05,25520.97,NET BANKING,R. Verma
+ORD1165,20/05/2024,Isha Menon,HOME & KITCHEN,Bed Sheet Set,  East  ,Kolkata,9,10124.47,0,91120.23,Credit Card,A. Sharma
+ORD1747,22-Jul-2024,Ananya Nair,BEAUTY,Nail Polish,EAST,Kolkata,9,4564.26,0.25,30808.76,Credit Card,S. Iyer
+ORD1283,29-Jun-2024,Vivaan Joshi,Books,Self-Help Book,EAST,Patna,10,21185.65,0.2,169485.2,upi,S. Iyer
+ORD1365,10/18/2025,Priya Rao,Sports,Skipping Rope,west,Ahmedabad,6,569.74,,3418.44,Cash on Delivery,A. Sharma
+ORD1311,10/18/2024,Ravi Pillai,  Home & Kitchen  ,Cutlery Set,  West  ,Mumbai,9,8841.53,0,79573.77,UPI,R. Verma
+ORD1511,21/03/2025,Karan Bose,Beauty,Hair Dryer,west,Ahmedabad,4,5260.69,0.15,17886.35,UPI,K. Singh
+ORD1180,28-Jun-2024,Rohan Mehta,Apparel,Women's Jeans,EAST,Kolkata,3,Rs.499.99,0.15,1274.97,upi,P. Nair
+ORD1070,2025-03-18,Priya Mehta,Electronics,Webcam,EAST,Patna,9,13568.54,0.25,91587.65,  Credit Card  ,A. Sharma
+ORD1935,28/12/2024,Ravi Kapoor,sports,Cricket Bat,East,Kolkata,8,8896.13,0,71169.04,CASH ON DELIVERY,R. Verma
+ORD1896,10/11/2025,Arjun Nair,APPAREL,Sneakers,SOUTH,Chennai,7,6680.65,0,46764.55,Net Banking,S. Iyer
+ORD1688,30-Apr-2024,Meera Rao,Electronics,Laptop Stand,East,Kolkata,2,,0.1,5676.35,CREDIT CARD,S. Iyer
+ORD1961,01-Jun-2025,Sai Kapoor,electronics,Wireless Mouse,SOUTH,Hyderabad,2,6293.07,0,12586.14,net banking,A. Sharma
+ORD1059,04/29/2025,Aditya Patel,sports,Badminton Racket,West,Mumbai,4,10199.37,,38757.61,UPI,M. Reddy
+ORD1885,27/10/2025,Aditya Singh,home & kitchen,Bed Sheet Set,East,Kolkata,8,6559.91,0.25,39359.46,upi,T. Joshi
+ORD2000,30/08/2024,Kabir Das,  Books  ,Cookbook,  North  ,Lucknow,2,2075.36,0.25,3113.04,CREDIT CARD,R. Verma
+ORD1957,2024-05-08,Sneha Das,  Beauty  ,Hair Dryer,South,Hyderabad,3,15579.11,0.1,42063.6,Credit Card,N. Gupta
+ORD1266,01/12/2024,Sneha Verma,Beauty,Face Moisturizer,SOUTH,Bengaluru,7,1862.82,0.25,9779.81,UPI,K. Singh
+ORD1769,12/05/2024,Vivaan Kapoor,APPAREL,Baseball Cap,east,Patna,7,16253.95,0.1,102399.89,  Credit Card  ,P. Nair
+ORD1801,2024-07-02,Priya Verma,apparel,Sneakers,  East  ,Patna,6,3944.65,0.05,22484.51,DEBIT CARD,A. Sharma
+ORD1381,10-Sep-2025,Kabir Kapoor,books,Fiction Novel,east,Bhubaneswar,7,8919.52,0.15,53071.14,Net Banking,T. Joshi
+ORD1605,27-Oct-2024,Meera Menon,  Books  ,Cookbook,  South  ,Chennai,2,19040.26,0.25,28560.39,Net Banking,P. Nair
+ORD1685,20/03/2024,Aditya Verma,apparel,Yoga Pants,West,Mumbai,7,22229.46,0.25,116704.67,DEBIT CARD,T. Joshi
+ORD1795,2024-08-17,Ravi Nair,HOME & KITCHEN,Vacuum Cleaner,east,Patna,3,23079.99,0.25,51929.98,CREDIT CARD,M. Reddy
+ORD1730,02-Sep-2024,,  Apparel  ,Baseball Cap,  North  ,Delhi,2,8558.82,,16261.76,UPI,T. Joshi
+ORD1148,14/06/2025,Arjun Mehta,Electronics,Laptop Stand,East,Bhubaneswar,4,24018.92,0,96075.68,debit card,T. Joshi
+ORD1252,27-Jun-2025,Vihaan Patel,ELECTRONICS,Bluetooth Speaker,North,Chandigarh,3,9660.62,0,28981.86,  Debit Card  ,R. Verma
+ORD1647,24/11/2025,Aarav Kapoor,Apparel,Baseball Cap,South,Hyderabad,10,4637.14,0,46371.4,debit card,T. Joshi
+ORD1903,20-Nov-2025,Kabir Kapoor,SPORTS,Skipping Rope,north,Chandigarh,5,Rs.6800.09,0.1,30600.4,  UPI  ,N. Gupta
+ORD1213,30-Nov-2024,Vihaan Verma,Books,Self-Help Book,NORTH,Lucknow,2,11011.64,0,22023.28,  UPI  ,N. Gupta
+ORD1441,2024-07-01,Arjun Nair,Home & Kitchen,Bed Sheet Set,west,Ahmedabad,2,13151.53,0,26303.06,credit card,S. Iyer
+ORD1879,18-Nov-2024,Aditya Patel,Sports,Yoga Mat,  North  ,Chandigarh,1,24516.46,0.1,22064.81,Net Banking,P. Nair
+ORD1331,10/29/2024,Meera Reddy,electronics,Bluetooth Speaker,west,Mumbai,5,20812.75,0.05,98860.56,UPI,N. Gupta
+ORD1782,08/02/2024,Myra Rao,  Books  ,Cookbook,West,Ahmedabad,2,2865.46,0.15,4871.28,Debit Card,K. Singh
+ORD1277,04/17/2025,Rohan Iyer,Electronics,Bluetooth Speaker,south,Hyderabad,2,22641.19,0.15,38490.02,credit card,A. Sharma
+ORD1802,2025-02-04,Ananya Sharma,Sports,Skipping Rope,east,Patna,9,9898.3,0.2,71267.76,Net Banking,M. Reddy
+ORD1788,02/09/2024,Ravi Kumar,Electronics,Portable SSD,east,Bhubaneswar,10,10821.92,0.15,91986.32,UPI,M. Reddy
+ORD1668,12-May-2024,Vihaan Malhotra,HOME & KITCHEN,Air Fryer,West,Ahmedabad,3,15602.78,0.1,42127.51,Credit Card,T. Joshi
+ORD1694,2024-05-03,Pooja Pillai,  Beauty  ,Shampoo,SOUTH,Hyderabad,1,23938.73,0.05,22741.79,  Net Banking  ,A. Sharma
+ORD1449,20/07/2025,Aarav Patel,beauty,Face Moisturizer,South,Chennai,-4,5488.35,0.15,18660.39,Credit Card,K. Singh
+ORD1171,23-Nov-2025,Priya Kumar,  Apparel  ,Formal Shirt,  West  ,Ahmedabad,3,11572.64,0.15,29510.23,cash on delivery,M. Reddy
+ORD1822,12/24/2025,Priya Pillai,electronics,Laptop Stand,South,Bengaluru,5,1463.69,0.15,6220.68,debit card,N. Gupta
+ORD1525,02/25/2024,Priya Joshi,  Beauty  ,Lipstick,WEST,Pune,8,18191.08,0,145528.64,debit card,M. Reddy
+ORD1304,10/19/2024,Neha Iyer,Books,Children's Storybook,West,Mumbai,3,14229.86,0,42689.58,CREDIT CARD,R. Verma
+ORD1488,2024-01-25,Ananya Menon,beauty,Nail Polish,West,Pune,4,17758.39,0.05,67481.88,  Credit Card  ,R. Verma
+ORD1738,2025-10-22,Arjun Mehta,SPORTS,Skipping Rope,East,Bhubaneswar,7,764.25,0.25,4012.31,  Debit Card  ,K. Singh
+ORD1833,23-May-2024,Ananya Bhatt,  Home & Kitchen  ,LED Desk Lamp,  East  ,Bhubaneswar,5,2851.07,0.25,10691.51,Net Banking,S. Iyer
+ORD1020,05-Apr-2024,Kabir Gupta,Sports,Cricket Bat,east,Bhubaneswar,8,20229.35,0,161834.8,credit card,A. Sharma
+ORD1325,2024-02-16,Vihaan Patel,books,Self-Help Book,SOUTH,Hyderabad,3,2702.3,0.1,7296.21,DEBIT CARD,R. Verma
+ORD1261,05/09/2024,Ravi Das,books,Self-Help Book,north,Delhi,9,13002.99,0.1,105324.22,debit card,M. Reddy
+ORD1848,06/05/2025,Vivaan Reddy,APPAREL,Baseball Cap,NORTH,Lucknow,7,12451.39,0,87159.73,  Debit Card  ,T. Joshi
+ORD1410,03-Aug-2024,Reyansh Malhotra,home & kitchen,Blender,East,Kolkata,10,,0,86759.5,  Net Banking  ,N. Gupta
+ORD1401,07/04/2025,Aditya Kapoor,  Apparel  ,Yoga Pants,north,Lucknow,-5,8598.15,0,42990.75,cash on delivery,K. Singh
+ORD1217,25-Oct-2024,Aditya Das,Beauty,Face Wash,NORTH,Delhi,9,2462.65,0.15,18839.27,net banking,A. Sharma
+ORD1055,03/21/2025,Neha Malhotra,HOME & KITCHEN,Coffee Maker,  East  ,Kolkata,2,10923.06,0.15,18569.2,NET BANKING,S. Iyer
+ORD1889,2025-03-19,Rohan Bhatt,Sports,Dumbbell Set,East,Bhubaneswar,8,2861.61,0,22892.88,Credit Card,N. Gupta
+ORD1151,04/01/2025,Kabir Nair,  Apparel  ,Running Shoes,  East  ,Patna,4,19832.83,0.05,75364.75,NET BANKING,A. Sharma
+ORD1697,2025-11-25,Diya Singh,  Electronics  ,Bluetooth Speaker,  South  ,Chennai,5,19242.37,0,96211.85,upi,N. Gupta
+ORD1878,31/07/2025,,APPAREL,Men's T-Shirt,  East  ,Kolkata,1,6122.33,0,6122.33,CASH ON DELIVERY,A. Sharma
+ORD1718,11/04/2024,Priya Kumar,Electronics,Bluetooth Speaker,North,Delhi,2,19598.76,0,39197.52,net banking,A. Sharma
+ORD1705,09-Nov-2025,Sneha Kumar,home & kitchen,Air Fryer,South,Hyderabad,6,15933.97,0.25,71702.86,,P. Nair
+ORD1107,12/28/2024,Vihaan Iyer,  Electronics  ,Bluetooth Speaker,West,Mumbai,9,1640.53,0.15,12550.05,Credit Card,N. Gupta
+ORD1725,22-Sep-2025,Isha Malhotra,books,Self-Help Book,North,Chandigarh,8,15054.09,0.15,102367.81,CASH ON DELIVERY,M. Reddy
+ORD1025,28-Sep-2025,Priya Iyer,Apparel,Formal Shirt,south,Chennai,5,11512.03,0,57560.15,CREDIT CARD,T. Joshi
+ORD1916,05/14/2025,Reyansh Chatterjee,Home & Kitchen,Blender,south,Hyderabad,2,14653.66,0.1,26376.59,Debit Card,P. Nair
+ORD1534,01-Jul-2024,Ananya Bose,home & kitchen,Non-stick Pan,  East  ,Bhubaneswar,2,12369.29,0.05,23501.65,cash on delivery,N. Gupta
+ORD1818,08-Mar-2024,Kabir Gupta,sports,Skipping Rope,north,Lucknow,5,3246.84,0,16234.2,  Cash on Delivery  ,N. Gupta
+ORD1083,07/08/2025,Priya Gupta,Sports,Cycling Helmet,EAST,Patna,6,21330.68,0.2,102387.26,upi,T. Joshi
+ORD1843,2024-12-05,Arjun Patel,  Apparel  ,Baseball Cap,west,Pune,2,2557.65,0,5115.3,cash on delivery,S. Iyer
+ORD1862,09/22/2025,Ananya Nair,BOOKS,Biography,North,Chandigarh,4,2678.15,0.1,9641.34,UPI,R. Verma
+ORD1614,05/23/2025,Sneha Kumar,BOOKS,Self-Help Book,  East  ,Bhubaneswar,3,15428.47,0.15,39342.6,NET BANKING,P. Nair
+ORD1380,24/08/2025,Reyansh Pillai,  Home & Kitchen  ,Coffee Maker,East,Patna,9,14318.48,0.2,103093.06,net banking,M. Reddy
+ORD1077,04/28/2025,Diya Malhotra,APPAREL,Women's Jeans,west,Mumbai,5,12795.47,,57579.61,NET BANKING,T. Joshi
+ORD1389,2024-08-22,Neha Kapoor,SPORTS,Cricket Bat,north,Lucknow,7,9353.88,0,65477.16,CASH ON DELIVERY,N. Gupta
+ORD1407,11/02/2025,Arjun Malhotra,  Electronics  ,Webcam,East,Patna,10,21738.91,,163041.83,  Debit Card  ,K. Singh
+ORD1292,15/06/2024,Ravi Chatterjee,BOOKS,Biography,SOUTH,Chennai,6,13718.7,0,82312.2,  Net Banking  ,P. Nair
+ORD1111,2024-02-23,Neha Bose,Electronics,Bluetooth Speaker,south,Chennai,6,4061.62,0.1,21932.75,UPI,R. Verma
+ORD1625,17/09/2024,Isha Iyer,home & kitchen,Air Fryer,South,Chennai,2,4502.58,0.1,8104.64,net banking,N. Gupta
+ORD1794,01/27/2025,Ananya Gupta,SPORTS,Football,SOUTH,Bengaluru,2,10957.1,0,21914.2,debit card,M. Reddy
+ORD1773,02/11/2025,Karan Bose,Beauty,Sunscreen SPF50,  East  ,Bhubaneswar,4,6905.74,0.25,20717.22,  Credit Card  ,M. Reddy
+ORD1247,2024-02-17,Arjun Bhatt,sports,Cycling Helmet,  East  ,Bhubaneswar,10,3395.27,0.25,25464.52,UPI,A. Sharma
+ORD1146,2024-03-09,Ananya Sharma,Books,Biography,East,Patna,3,21239.43,0.25,47788.72,credit card,S. Iyer
+ORD1129,24/02/2025,Ananya Singh,home & kitchen,Blender,West,Mumbai,10,20254.74,0,202547.4,  Net Banking  ,A. Sharma
+ORD1852,11/28/2024,Aditya Bhatt,books,Cookbook,east,Bhubaneswar,5,18093.68,0.2,72374.72,cash on delivery,K. Singh
+ORD1623,2025-08-07,Vihaan Gupta,home & kitchen,LED Desk Lamp,north,Chandigarh,7,23587.58,0,165113.06,  Debit Card  ,R. Verma
+ORD1976,25-May-2025,Karan Gupta,Sports,Skipping Rope,west,Mumbai,3,19592.33,0.1,52899.29,credit card,R. Verma
+ORD1946,2024-04-01,Ravi Sharma,sports,Football,South,Chennai,4,14502.97,0.2,46409.5,upi,P. Nair
+ORD1487,12-May-2024,Meera Patel,Beauty,Shampoo,WEST,Ahmedabad,7,15279.79,0.15,90914.75,UPI,M. Reddy
+ORD1909,2024-04-23,Vivaan Mehta,APPAREL,Yoga Pants,  East  ,Patna,2,23384.15,0,46768.3,Cash on Delivery,R. Verma
+ORD1091,2024-05-15,Diya Gupta,SPORTS,Yoga Mat,East,Patna,5,8268.97,0.2,33075.88,DEBIT CARD,P. Nair
+ORD1206,26/06/2025,Meera Malhotra,Sports,Resistance Bands,North,Lucknow,8,540.93,0.2,3461.95,CREDIT CARD,A. Sharma
+ORD1980,02-Mar-2025,Ravi Gupta,BOOKS,Cookbook,NORTH,Delhi,10,22622.45,0,226224.5,upi,R. Verma
+ORD1171,11/23/2025,Priya Kumar,Apparel,Formal Shirt,WEST,Ahmedabad,3,11572.64,0.15,29510.23,  Cash on Delivery  ,M. Reddy
+ORD1919,28-May-2024,Neha Singh,  Electronics  ,Bluetooth Speaker,  South  ,Chennai,6,6246.16,0.05,35603.11,upi,M. Reddy
+ORD1057,14/12/2024,Aarav Malhotra,Apparel,Sneakers,WEST,Pune,6,4668.72,0.05,26611.7,  UPI  ,K. Singh
+ORD1405,08/22/2024,,Apparel,Baseball Cap,south,Hyderabad,4,5986.31,0.05,22747.98,upi,P. Nair
+ORD1242,03-Sep-2025,Diya Reddy,Beauty,Face Wash,  South  ,Hyderabad,4,20165.2,0.15,68561.68,Cash on Delivery,K. Singh
+ORD1600,2025-03-24,Aditya Malhotra,sports,Cycling Helmet,west,Mumbai,6,,0.25,20724.93,credit card,N. Gupta
+ORD1347,2025-12-09,Sneha Verma,Beauty,Lipstick,West,Mumbai,,23392.41,0.25,157898.77,Cash on Delivery,S. Iyer
+ORD1098,2025-10-19,Reyansh Reddy,Home & Kitchen,Bed Sheet Set,north,Chandigarh,2,23732.92,0.25,35599.38,Credit Card,P. Nair
+ORD1117,26/08/2025,Rohan Das,electronics,Noise Cancelling Headphones,south,Hyderabad,2,11002.29,0,22004.58,DEBIT CARD,N. Gupta
+ORD1202,29-Oct-2024,Vivaan Pillai,  Apparel  ,Formal Shirt,EAST,Bhubaneswar,4,18570.12,0,74280.48,UPI,N. Gupta
+ORD1888,01/02/2025,Sai Patel,  Books  ,Children's Storybook,North,Delhi,7,4081.41,0.2,22855.9,Credit Card,P. Nair
+ORD1480,03-Oct-2025,Diya Singh,  Apparel  ,Formal Shirt,south,Bengaluru,1,10576.61,0.1,9518.95,Net Banking,K. Singh
+ORD1324,03/10/2025,Vihaan Sharma,electronics,Wireless Mouse,SOUTH,Hyderabad,6,18957.67,0.05,108058.72,CREDIT CARD,A. Sharma
+ORD1194,26-May-2024,Karan Kumar,apparel,Baseball Cap,SOUTH,Hyderabad,10,15008.25,0.15,127570.12,Debit Card,K. Singh
+ORD1444,13/04/2024,Vivaan Gupta,BOOKS,Fiction Novel,east,Patna,5,2086.69,0.05,9911.78,Cash on Delivery,R. Verma
+ORD1816,2025-07-02,Priya Singh,sports,Dumbbell Set,  East  ,Bhubaneswar,7,11483.28,0.1,72344.66,Net Banking,S. Iyer
+ORD1455,12/02/2025,Aditya Malhotra,  Sports  ,Cricket Bat,South,Chennai,10,18671.08,0.2,149368.64,UPI,R. Verma
+ORD1529,11/19/2025,Kabir Pillai,Electronics,Smartwatch,West,Pune,4,13070.82,0,52283.28,UPI,A. Sharma
+ORD1806,04/02/2024,Sai Kapoor,HOME & KITCHEN,Cutlery Set,South,Bengaluru,6,14895.8,0,89374.8,  Net Banking  ,P. Nair
+ORD1551,18-Oct-2024,Ravi Malhotra,Electronics,USB-C Hub,NORTH,Delhi,3,4120.03,0,12360.09,credit card,M. Reddy
+ORD1819,2025-01-22,,home & kitchen,Coffee Maker,EAST,Bhubaneswar,4,6950.12,0,27800.48,net banking,P. Nair
+ORD1543,15-Jan-2024,Diya Malhotra,APPAREL,Women's Jeans,North,Lucknow,1,11859.81,0,11859.81,  Debit Card  ,S. Iyer
+ORD1994,12-Sep-2024,Rohan Joshi,beauty,Hair Dryer,South,Chennai,3,22706.66,0.1,61307.98,  UPI  ,R. Verma
+ORD1297,28/04/2024,,  Books  ,Business Guide,west,Mumbai,4,4395.18,0.1,15822.65,Credit Card,T. Joshi
+ORD1894,10-Dec-2025,Isha Das,Sports,Resistance Bands,East,Kolkata,7,12118.39,0,84828.73,NET BANKING,M. Reddy
+ORD1602,02-May-2025,Kabir Rao,Home & Kitchen,Vacuum Cleaner,West,Mumbai,8,7071.18,0.1,50912.5,NET BANKING,M. Reddy
+ORD1825,11/06/2025,Ravi Sharma,electronics,Bluetooth Speaker,East,Patna,7,16974.27,0,118819.89,Net Banking,T. Joshi
+ORD1396,2025-12-29,Aditya Menon,electronics,Smartwatch,SOUTH,Chennai,1,18153.69,0.2,14522.95,Cash on Delivery,K. Singh
+ORD1427,23-Oct-2024,Pooja Mehta,BEAUTY,Hair Dryer,east,Patna,7,4821.82,0,33752.74,  Debit Card  ,S. Iyer
+ORD1821,2024-09-22,Arjun Chatterjee,Home & Kitchen,Coffee Maker,north,Delhi,3,8727.55,0.2,20946.12,NET BANKING,S. Iyer
+ORD1560,2024-05-15,Sai Bose,Beauty,Face Wash,West,Ahmedabad,8,6126.71,0,49013.68,net banking,P. Nair
+ORD1526,2025-01-23,Ananya Bose,Books,Cookbook,North,Delhi,7,11984.36,0.25,62917.89,Cash on Delivery,P. Nair
+ORD1970,06/27/2024,Sai Malhotra,Books,Self-Help Book,south,Bengaluru,8,8192.94,0.05,62266.34,debit card,R. Verma
+ORD1015,2024-05-03,Isha Patel,Beauty,Face Wash,South,Hyderabad,7,24879.46,,148032.79,Net Banking,T. Joshi
+ORD1253,04/12/2024,Vihaan Reddy,BEAUTY,Face Moisturizer,South,Chennai,3,23009.37,,51771.08,DEBIT CARD,R. Verma
+ORD1239,09/08/2025,Pooja Patel,  Home & Kitchen  ,Non-stick Pan,East,Kolkata,3,19551.39,0.25,43990.63,CASH ON DELIVERY,R. Verma
+ORD1121,2025-04-07,Myra Mehta,Electronics,Webcam,west,Ahmedabad,10,1545.88,0,15458.8,UPI,T. Joshi
+ORD1286,03/15/2024,Ananya Kumar,apparel,Running Shoes,east,Patna,1,694.54,0,694.54,  Credit Card  ,M. Reddy
+ORD1555,2024-07-17,Isha Menon,SPORTS,Yoga Mat,WEST,Mumbai,8,4574.81,0.15,31108.71,DEBIT CARD,T. Joshi
+ORD1197,18-Sep-2024,Vivaan Bhatt,Apparel,Baseball Cap,SOUTH,Chennai,7,24199.49,0,169396.43,  Net Banking  ,P. Nair
+ORD1346,05/11/2025,Arjun Nair,APPAREL,Sneakers,South,Hyderabad,7,1305.53,0,9138.71,Net Banking,T. Joshi
+ORD1546,2025-03-25,Sai Mehta,  Beauty  ,Lipstick,EAST,Kolkata,3,18975.12,0,56925.36,UPI,S. Iyer
+ORD1251,01/27/2025,Arjun Nair,books,Biography,North,Delhi,,Rs.17396.67,0.25,91332.52,Credit Card,P. Nair
+ORD1934,17-Jan-2024,Myra Pillai,HOME & KITCHEN,Air Fryer,South,Hyderabad,2,3810.15,0,7620.3,credit card,P. Nair
+ORD1646,07/03/2024,Ravi Nair,SPORTS,Resistance Bands,West,Pune,3,3222.81,0,9668.43,Debit Card,K. Singh
+ORD1830,28-Dec-2024,Ravi Verma,beauty,Face Moisturizer,  West  ,Ahmedabad,6,296.39,0.25,1333.75,upi,K. Singh
+ORD1413,08/12/2025,Myra Mehta,Books,Children's Storybook,East,Bhubaneswar,9,21483.77,0,193353.93,net banking,R. Verma
+ORD1486,21-Apr-2024,Sai Mehta,ELECTRONICS,Smartwatch,WEST,Mumbai,6,13247.26,0.05,75509.38,DEBIT CARD,A. Sharma
+ORD1431,10-Sep-2024,Reyansh Chatterjee,  Electronics  ,Webcam,south,Bengaluru,1,3180.74,0.05,3021.7,Net Banking,T. Joshi
+ORD1793,28/04/2024,Aditya Patel,APPAREL,Men's T-Shirt,south,Chennai,9,24682.41,0.25,166606.27,DEBIT CARD,T. Joshi
+ORD1767,03/02/2024,Aarav Menon,Beauty,Sunscreen SPF50,north,Delhi,2,7824.89,0.2,12519.82,Debit Card,R. Verma
+ORD1291,24-Mar-2025,Aditya Das,HOME & KITCHEN,Vacuum Cleaner,SOUTH,Hyderabad,5,19707.45,0,98537.25,credit card,N. Gupta
+ORD1017,2025-07-06,Vivaan Kumar,  Books  ,Fiction Novel,South,,2,12926.78,0.1,23268.2,Net Banking,P. Nair
+ORD1159,2024-09-10,Pooja Nair,sports,Cricket Bat,  East  ,Patna,6,6157.19,0,36943.14,upi,T. Joshi
+ORD1244,08/14/2025,Diya Kumar,home & kitchen,Blender,  South  ,Bengaluru,-4,19072.62,0.2,61032.38,Net Banking,S. Iyer
+ORD1067,10/25/2024,Ananya Bhatt,Books,Fiction Novel,  South  ,Bengaluru,2,4039.84,0.2,6463.74,  Net Banking  ,T. Joshi
+ORD1925,06/02/2025,Vihaan Chatterjee,sports,Cycling Helmet,East,Bhubaneswar,2,13977.79,0.15,23762.24,Net Banking,A. Sharma
+ORD1360,04/01/2025,Sneha Malhotra,home & kitchen,LED Desk Lamp,south,Hyderabad,9,20618.66,0,185567.94,Credit Card,M. Reddy
+ORD1953,26/11/2025,Priya Nair,HOME & KITCHEN,Vacuum Cleaner,West,Pune,5,23016.82,0.1,103575.69,Debit Card,N. Gupta
+ORD1632,11/23/2024,Aditya Nair,Books,Cookbook,  East  ,Patna,3,6352.65,0,19057.95,  Cash on Delivery  ,N. Gupta
+ORD1505,17-Apr-2025,Rohan Malhotra,BOOKS,Business Guide,EAST,Bhubaneswar,1,1774.33,0,1774.33,UPI,T. Joshi
+ORD1473,09/09/2024,Aditya Singh,  Books  ,Business Guide,south,Bengaluru,8,21698.16,0.25,130188.96,,T. Joshi
+ORD1964,2025-12-15,Sai Pillai,Sports,Cycling Helmet,east,Patna,8,9278.38,0.1,66804.34,Net Banking,N. Gupta
+ORD1578,2025-11-13,Rohan Gupta,Apparel,Men's T-Shirt,NORTH,Lucknow,9,,0.25,67172.15,UPI,A. Sharma
+ORD1982,2024-02-23,Aarav Reddy,Home & Kitchen,Vacuum Cleaner,NORTH,Delhi,9,15262.25,0.2,109888.2,Credit Card,T. Joshi
+ORD1522,01-Jun-2025,Vivaan Patel,books,Biography,SOUTH,Hyderabad,,828.36,0.25,6212.7,CREDIT CARD,S. Iyer
+ORD1875,10/12/2025,Isha Chatterjee,electronics,Portable SSD,  South  ,Hyderabad,10,1541.52,0.2,12332.16,DEBIT CARD,R. Verma
+ORD1531,12/26/2025,Aditya Verma,Apparel,Men's T-Shirt,  North  ,Lucknow,10,16466.65,0.05,156433.17,Cash on Delivery,R. Verma
+ORD1409,09/19/2025,Aarav Sharma,Electronics,Webcam,east,,4,9578.79,0,38315.16,UPI,M. Reddy
+ORD1666,21-Oct-2024,Ravi Menon,  Books  ,Biography,West,Mumbai,6,11290.89,0.2,54196.27,Credit Card,S. Iyer
+ORD1873,12-Jan-2024,Diya Verma,  Sports  ,Yoga Mat,east,Kolkata,1,15163.71,0,15163.71,Cash on Delivery,S. Iyer
+ORD1433,29/08/2024,Ravi Patel,books,Fiction Novel,North,Chandigarh,4,9106.6,0,36426.4,Debit Card,R. Verma
+ORD1432,06/10/2025,Sai Kapoor,books,Fiction Novel,SOUTH,Chennai,4,11899.71,0.1,42838.96,UPI,S. Iyer
+ORD1485,07/17/2025,Aditya Patel,BOOKS,Children's Storybook,  East  ,,6,9308.95,0.2,44682.96,CREDIT CARD,N. Gupta
+ORD1152,23-Feb-2025,Diya Menon,  Beauty  ,Perfume,WEST,Ahmedabad,2,1783.84,0.2,2854.14,Net Banking,N. Gupta
+ORD1328,02/19/2024,Reyansh Bhatt,HOME & KITCHEN,Non-stick Pan,West,Ahmedabad,10,1357.39,0,13573.9,credit card,A. Sharma
+ORD1257,08/08/2024,Ananya Malhotra,Sports,Skipping Rope,East,Patna,2,564.73,0,1129.46,Credit Card,K. Singh
+ORD1312,09/06/2025,Karan Reddy,Electronics,Portable SSD,north,Delhi,4,16237.39,0.05,61702.08,  UPI  ,N. Gupta
+ORD1805,08/04/2024,Karan Nair,books,Business Guide,North,Chandigarh,3,9507.41,0.2,22817.78,DEBIT CARD,A. Sharma
+ORD1305,2025-02-16,Priya Malhotra,  Beauty  ,Perfume,West,Pune,10,15282.71,0,152827.1,debit card,K. Singh
+ORD1785,13-Oct-2025,Vivaan Singh,Beauty,Sunscreen SPF50,South,Bengaluru,4,6594.9,0.2,21103.68,  Net Banking  ,R. Verma
+ORD1414,2025-07-27,Ravi Nair,Apparel,Men's T-Shirt,SOUTH,,8,18653.14,0.1,134302.61,UPI,M. Reddy
+ORD1134,02/09/2024,Aarav Kumar,SPORTS,Dumbbell Set,East,Kolkata,2,21003.53,0.15,35706,DEBIT CARD,S. Iyer
+ORD1032,2024-09-30,Ananya Rao,Books,Self-Help Book,South,Bengaluru,1,4607.11,,3916.04,Net Banking,P. Nair
+ORD1766,26-Jan-2025,Ananya Kumar,Home & Kitchen,Air Fryer,south,Chennai,8,1827.71,0,14621.68,cash on delivery,T. Joshi
+ORD1783,2025-11-01,Ananya Malhotra,BOOKS,Biography,EAST,Kolkata,1,2557.24,0.2,2045.79,Cash on Delivery,N. Gupta
+ORD1459,2024-10-21,Vihaan Iyer,ELECTRONICS,USB-C Hub,South,Hyderabad,2,2942.44,0,5884.88,Debit Card,S. Iyer
+ORD1162,04/20/2024,Myra Malhotra,Apparel,Formal Shirt,North,Delhi,10,22076.14,0.25,165571.05,UPI,A. Sharma
+ORD1340,2025-07-17,Ravi Kumar,Sports,Badminton Racket,south,Bengaluru,4,8372.74,0.1,30141.86,  Credit Card  ,P. Nair
+ORD1287,27/06/2024,Myra Kumar,Home & Kitchen,Air Fryer,north,Chandigarh,3,24400.14,0.2,58560.34,NET BANKING,M. Reddy
+ORD1249,02-Oct-2025,Vihaan Mehta,home & kitchen,Blender,EAST,Kolkata,2,9390.32,0,18780.64,credit card,N. Gupta
+ORD1940,2024-11-08,Myra Menon,apparel,Winter Jacket,east,Patna,5,18386.97,0,91934.85,Debit Card,T. Joshi
+ORD1580,24/08/2025,Rohan Rao,SPORTS,Dumbbell Set,SOUTH,Hyderabad,8,7322.56,0.2,46864.38,Net Banking,S. Iyer
+ORD1837,07/06/2025,Ravi Patel,  Home & Kitchen  ,Air Fryer,North,Chandigarh,5,12225.34,0.2,48901.36,DEBIT CARD,S. Iyer
+ORD1937,2025-06-15,Myra Reddy,Electronics,Portable SSD,west,Mumbai,7,4539.63,0.1,28599.67,  Cash on Delivery  ,T. Joshi
+ORD1002,08/13/2024,Isha Joshi,Sports,Yoga Mat,  North  ,Delhi,9,15110.17,0.05,129191.95,Cash on Delivery,N. Gupta
+ORD1737,2025-04-23,Vihaan Joshi,Electronics,Smartwatch,west,Ahmedabad,10,1172.4,0.15,9965.4,  Net Banking  ,T. Joshi
+ORD1208,14-Dec-2025,Priya Gupta,Apparel,Baseball Cap,east,Bhubaneswar,6,23988.55,0.25,107948.47,cash on delivery,P. Nair
+ORD1630,2025-09-08,Neha Nair,SPORTS,Badminton Racket,West,Pune,3,17507.28,0,52521.84,UPI,N. Gupta
+ORD1933,11-Mar-2024,Vihaan Chatterjee,apparel,Women's Jeans,South,Bengaluru,8,21716.29,0.05,165043.8,,P. Nair
+ORD1851,2024-01-02,Reyansh Verma,electronics,Laptop Stand,East,Kolkata,4,24739.98,0.05,94011.92,cash on delivery,R. Verma
+ORD1898,02/27/2025,Aarav Patel,apparel,Men's T-Shirt,EAST,Bhubaneswar,5,12626.82,0,63134.1,NET BANKING,T. Joshi
+ORD1265,02/05/2024,,Beauty,Face Wash,south,Chennai,6,6890.76,0,41344.56,cash on delivery,M. Reddy
+ORD1275,14/04/2024,Priya Bose,Home & Kitchen,LED Desk Lamp,south,Bengaluru,9,18739.75,0.05,160224.86,  Credit Card  ,T. Joshi
+ORD1071,2024-06-28,Aditya Joshi,books,Cookbook,east,Kolkata,10,14740.0,0,147400,UPI,A. Sharma
+ORD1641,2025-05-30,Vihaan Iyer,Beauty,Face Wash,east,Bhubaneswar,9,1171.96,0,10547.64,  UPI  ,S. Iyer
+ORD1445,2024-04-18,Isha Kapoor,  Books  ,Self-Help Book,West,Mumbai,4,14315.19,0,57260.76,Cash on Delivery,N. Gupta
+ORD1847,14-Dec-2025,Ravi Rao,books,Fiction Novel,West,Mumbai,9,23293.61,0,209642.49,debit card,K. Singh
+ORD1099,2025-08-23,Arjun Joshi,Books,Children's Storybook,north,Delhi,3,19706.41,0.05,56163.27,CREDIT CARD,P. Nair
+ORD1866,03/10/2025,Arjun Iyer,sports,Cycling Helmet,  South  ,Bengaluru,3,19223.26,0.15,49019.31,UPI,T. Joshi
+ORD1022,11/17/2024,Pooja Malhotra,  Home & Kitchen  ,Cutlery Set,EAST,Bhubaneswar,3,4868.96,0.05,13876.54,  Credit Card  ,A. Sharma
+ORD1706,2024-01-05,Meera Kumar,home & kitchen,Bed Sheet Set,South,Chennai,1,22863.35,0,22863.35,Credit Card,T. Joshi
+ORD1415,2024-10-18,Neha Nair,BEAUTY,Hair Dryer,EAST,Kolkata,6,21704.11,0.05,123713.43,cash on delivery,S. Iyer
+ORD1518,2025-12-22,Pooja Pillai,BOOKS,Children's Storybook,EAST,Bhubaneswar,6,981.53,0,5889.18,Cash on Delivery,T. Joshi
+ORD1150,03-Nov-2024,Rohan Gupta,  Electronics  ,Webcam,South,Hyderabad,6,16745.82,0,100474.92,CASH ON DELIVERY,K. Singh
+ORD1648,01/30/2024,Sai Chatterjee,ELECTRONICS,Noise Cancelling Headphones,NORTH,Chandigarh,6,14819.91,0,88919.46,upi,S. Iyer
+ORD1355,04/04/2025,Vihaan Pillai,beauty,Nail Polish,SOUTH,Hyderabad,9,18500.48,0.05,158179.1,debit card,K. Singh
+ORD1951,2024-03-29,Aarav Verma,Electronics,Portable SSD,east,Patna,5,3572.31,0.1,16075.4,Cash on Delivery,S. Iyer
+ORD1053,2024-03-18,Sai Pillai,Apparel,Women's Jeans,SOUTH,Chennai,1,23232.85,0.2,18586.28,NET BANKING,P. Nair
+ORD1199,16-Jan-2024,Isha Pillai,  Books  ,Children's Storybook,  North  ,Delhi,9,5542.86,0.05,47391.45,UPI,K. Singh
+ORD1123,2024-03-27,Ravi Kapoor,Beauty,Sunscreen SPF50,EAST,,3,23949.4,0.25,53886.15,credit card,M. Reddy
+ORD1204,20-Jun-2025,Vihaan Singh,Books,Biography,West,Mumbai,3,18049.79,0.25,40612.03,  Debit Card  ,A. Sharma
+ORD1068,11/03/2025,Myra Bose,ELECTRONICS,USB-C Hub,east,Patna,2,17231.52,0.1,31016.74,Cash on Delivery,P. Nair
+ORD1224,16/03/2024,Ravi Iyer,Books,Fiction Novel,West,Ahmedabad,5,6164.23,0,30821.15,Net Banking,N. Gupta
+ORD1128,08-Nov-2025,Kabir Iyer,  Apparel  ,Formal Shirt,west,Mumbai,3,2067.55,0,6202.65,  Cash on Delivery  ,A. Sharma
+ORD1656,04/20/2025,Aditya Verma,Sports,Cycling Helmet,North,Lucknow,9,2824.66,0.2,20337.55,  Net Banking  ,R. Verma
+ORD1140,2024-02-07,Ananya Bose,Electronics,Noise Cancelling Headphones,east,Patna,8,15848.64,0,126789.12,CREDIT CARD,T. Joshi
+ORD1418,01/24/2024,Vihaan Pillai,books,Biography,East,Bhubaneswar,9,24143.32,0.2,173831.9,Debit Card,S. Iyer
+ORD1219,04/01/2025,Aditya Singh,Home & Kitchen,LED Desk Lamp,WEST,Mumbai,7,7007.65,0.1,44148.19,  Net Banking  ,R. Verma
+ORD1547,01/08/2024,Meera Chatterjee,Apparel,Men's T-Shirt,SOUTH,,3,,0.25,1211.42,Credit Card,A. Sharma
+ORD1158,12/19/2024,Neha Malhotra,Books,Fiction Novel,SOUTH,Chennai,-8,5219.97,0,41759.76,UPI,M. Reddy
+ORD1095,04/28/2024,Myra Rao,Apparel,Women's Jeans,WEST,Ahmedabad,2,3623.46,0,7246.92,UPI,T. Joshi
+ORD1256,2024-05-15,Meera Gupta,sports,Dumbbell Set,South,Chennai,9,22234.8,0,200113.2,upi,M. Reddy
+ORD1988,17/06/2025,Vihaan Rao,books,Children's Storybook,NORTH,Delhi,10,12232.26,0,122322.6,DEBIT CARD,S. Iyer
+ORD1644,06/01/2024,Ravi Iyer,  Home & Kitchen  ,Air Fryer,  South  ,Chennai,9,21347.89,0.25,144098.26,  Credit Card  ,P. Nair
+ORD1739,2024-05-01,Sneha Kapoor,electronics,Noise Cancelling Headphones,North,Chandigarh,9,16144.81,0.1,130772.96,  Debit Card  ,R. Verma
+ORD1040,19-Nov-2025,Ananya Gupta,  Books  ,Self-Help Book,WEST,Ahmedabad,5,12958.98,0.15,55075.66,credit card,P. Nair
+ORD1131,13/09/2024,Myra Chatterjee,  Books  ,Children's Storybook,WEST,,9,13257.38,0,119316.42,Debit Card,S. Iyer
+ORD1095,04/28/2024,Myra Rao,APPAREL,Women's Jeans,West,Ahmedabad,2,3623.46,0,7246.92,UPI,T. Joshi
+ORD1190,08/16/2024,Pooja Iyer,Sports,Skipping Rope,north,Lucknow,6,3098.03,0.2,14870.54,CASH ON DELIVERY,S. Iyer
+ORD1960,27/04/2024,Diya Patel,Books,Biography,South,Bengaluru,5,18020.68,0,90103.4,  Net Banking  ,P. Nair
+ORD1590,19/03/2024,,  Beauty  ,Sunscreen SPF50,  South  ,Hyderabad,9,17856.8,0,160711.2,net banking,T. Joshi
+ORD1403,18-Dec-2025,Kabir Joshi,ELECTRONICS,Smartwatch,North,Chandigarh,6,10398.79,0.15,53033.83,Cash on Delivery,A. Sharma
+ORD1761,13/08/2024,Aarav Rao,home & kitchen,Vacuum Cleaner,SOUTH,Bengaluru,1,24733.87,0.15,21023.79,debit card,R. Verma
+ORD1039,2025-03-28,Isha Rao,Beauty,Face Moisturizer,East,Bhubaneswar,10,15225.54,0.15,129417.09,Net Banking,T. Joshi
+ORD1243,2024-03-01,Myra Patel,BEAUTY,Lipstick,east,Patna,10,6793.48,0,67934.8,Debit Card,N. Gupta
+ORD1354,26-Jul-2024,Priya Rao,BEAUTY,Hair Dryer,north,Chandigarh,6,24150.96,0,144905.76,,K. Singh
+ORD1621,06-Oct-2024,Ravi Bhatt,Electronics,USB-C Hub,East,Bhubaneswar,7,10637.18,0,74460.26,,S. Iyer
+ORD1651,18-Oct-2024,Priya Gupta,SPORTS,Cycling Helmet,South,Bengaluru,1,21330.79,0,21330.79,net banking,N. Gupta
+ORD1535,15/04/2024,Pooja Rao,Books,Biography,north,Delhi,4,15407.06,0,61628.24,net banking,K. Singh
+ORD1504,07/06/2024,Kabir Joshi,Books,Business Guide,WEST,Pune,3,21548.24,0.1,58180.25,UPI,N. Gupta
+ORD1160,13/07/2024,Priya Menon,Apparel,Women's Jeans,  North  ,Chandigarh,7,6319.52,0,44236.64,UPI,M. Reddy
+ORD1395,31/03/2024,,Sports,Resistance Bands,  North  ,Delhi,2,20607.9,0.25,30911.85,cash on delivery,N. Gupta
+ORD1538,2025-02-14,Priya Malhotra,books,Fiction Novel,SOUTH,Bengaluru,,14246.01,0.15,24218.22,upi,K. Singh
+ORD1696,2024-04-03,Arjun Rao,Beauty,Face Moisturizer,WEST,Mumbai,3,10461.17,0.15,26675.98,NET BANKING,K. Singh
+ORD1241,2025-12-28,,electronics,Webcam,EAST,Bhubaneswar,2,,0.05,36906.46,DEBIT CARD,M. Reddy
+ORD1014,2024-09-28,Ravi Gupta,Apparel,Women's Jeans,North,Lucknow,9,19180.99,0,172628.91,Net Banking,S. Iyer
+ORD1658,12/15/2024,Neha Patel,apparel,Yoga Pants,North,Delhi,6,14742.13,0.25,66339.58,Net Banking,K. Singh
+ORD1476,19/04/2025,Ananya Rao,Sports,Cycling Helmet,  East  ,Bhubaneswar,5,15386.39,0,76931.95,Cash on Delivery,S. Iyer
+ORD1913,09-Aug-2024,Reyansh Nair,Sports,Yoga Mat,SOUTH,Hyderabad,4,15211.85,0,60847.4,Cash on Delivery,S. Iyer
+ORD1884,2024-03-10,Aditya Malhotra,ELECTRONICS,Laptop Stand,East,Patna,2,11451.98,0,22903.96,upi,S. Iyer
+ORD1315,24-Sep-2024,Sai Malhotra,Beauty,Perfume,EAST,Bhubaneswar,2,8506.65,0.1,15311.97,UPI,K. Singh
+ORD1362,2025-10-03,Myra Reddy,Beauty,Nail Polish,  West  ,Mumbai,6,12920.28,0,77521.68,  Debit Card  ,A. Sharma
+ORD1591,2024-06-25,Vihaan Patel,ELECTRONICS,Laptop Stand,  North  ,Chandigarh,6,3604.5,0.25,16220.25,CASH ON DELIVERY,M. Reddy
+ORD1321,05/26/2024,Vivaan Iyer,ELECTRONICS,Portable SSD,EAST,Bhubaneswar,,24809.84,0.15,63265.09,Net Banking,T. Joshi
+ORD1922,2024-05-07,Isha Verma,sports,Resistance Bands,east,Kolkata,8,12541.48,0.1,90298.66,  Net Banking  ,R. Verma
+ORD1887,2024-09-07,Neha Kapoor,beauty,Perfume,EAST,Kolkata,8,6681.26,0,53450.08,  Cash on Delivery  ,A. Sharma
+ORD1673,2024-04-11,Sai Reddy,Electronics,Bluetooth Speaker,South,Hyderabad,6,4052.26,0.1,21882.2,NET BANKING,T. Joshi
+ORD1565,08/18/2024,Arjun Joshi,BEAUTY,Shampoo,South,Bengaluru,9,2971.91,0.25,20060.39,  Cash on Delivery  ,P. Nair
+ORD1356,13-May-2024,Sneha Nair,APPAREL,Women's Jeans,  South  ,Bengaluru,7,1159.76,0.1,7306.49,cash on delivery,K. Singh
+ORD1035,02/09/2025,Reyansh Singh,  Beauty  ,Perfume,  North  ,Delhi,10,24068.98,0.1,216620.82,Credit Card,R. Verma
+ORD1335,07/12/2025,Arjun Singh,SPORTS,Cycling Helmet,North,Chandigarh,2,10109.32,0.25,15163.98,UPI,N. Gupta
+ORD1689,2024-02-19,Myra Malhotra,HOME & KITCHEN,LED Desk Lamp,EAST,Bhubaneswar,1,19811.41,0,19811.41,cash on delivery,N. Gupta
+ORD1377,04/01/2025,Sneha Sharma,SPORTS,Dumbbell Set,  West  ,Pune,4,21222.35,0,84889.4,Cash on Delivery,S. Iyer
+ORD1185,04-Mar-2024,Meera Gupta,Books,Self-Help Book,  South  ,Hyderabad,9,11251.69,0.15,86075.43,  Credit Card  ,R. Verma
+ORD1824,08/12/2025,Arjun Gupta,books,Fiction Novel,East,Bhubaneswar,,2055.83,0.05,3906.08,Credit Card,S. Iyer
+ORD1424,2025-12-05,Aarav Kapoor,Home & Kitchen,Blender,EAST,Kolkata,3,8695.54,0.25,19564.97,cash on delivery,A. Sharma
+ORD1326,2025-01-02,Sneha Menon,HOME & KITCHEN,LED Desk Lamp,WEST,Ahmedabad,,8545.2,0,76906.8,UPI,T. Joshi
+ORD1188,08-Jul-2025,Aarav Reddy,home & kitchen,Non-stick Pan,  West  ,Pune,10,1964.78,0.2,15718.24,upi,R. Verma
+ORD1285,20-Sep-2025,Kabir Menon,Sports,Yoga Mat,north,Delhi,4,645.21,0.25,1935.63,Credit Card,M. Reddy
+ORD1392,2025-09-18,Diya Rao,Home & Kitchen,Air Fryer,East,Kolkata,10,6452.77,0.2,51622.16,cash on delivery,M. Reddy
+ORD1975,2024-03-09,Isha Pillai,BOOKS,Business Guide,WEST,Mumbai,8,12596.13,0.15,85653.68,cash on delivery,S. Iyer
+ORD1166,06/15/2024,Rohan Iyer,BOOKS,Cookbook,WEST,Ahmedabad,10,22344.32,0,223443.2,UPI,M. Reddy
+ORD1348,10/07/2024,Priya Menon,Beauty,Lipstick,south,Bengaluru,10,22084.99,0.2,176679.92,Net Banking,P. Nair
+ORD1299,28/03/2024,Rohan Mehta,Sports,Yoga Mat,East,Bhubaneswar,4,20951.41,,83805.64,Debit Card,R. Verma
+ORD1536,11-Nov-2025,Reyansh Bose,Electronics,Bluetooth Speaker,north,Lucknow,1,Rs.22428.33,0,22428.33,Credit Card,A. Sharma
+ORD1230,19/07/2025,Arjun Nair,Home & Kitchen,Non-stick Pan,NORTH,Delhi,3,23258.57,,66286.92,Cash on Delivery,S. Iyer
+ORD1860,15/04/2024,Reyansh Bhatt,APPAREL,Winter Jacket,north,Lucknow,2,677.02,0,1354.04,Credit Card,K. Singh
+ORD1828,07/06/2025,Ravi Chatterjee,Beauty,Perfume,north,Chandigarh,3,9426.1,0,28278.3,UPI,P. Nair
+ORD1695,2025-02-15,Reyansh Reddy,BOOKS,Children's Storybook,south,Bengaluru,4,20767.81,0.25,62303.43,Credit Card,M. Reddy
+ORD1856,12/03/2024,Myra Sharma,beauty,Nail Polish,south,Hyderabad,5,4198.53,0,20992.65,NET BANKING,P. Nair
+ORD1042,08/12/2024,Priya Joshi,beauty,Sunscreen SPF50,West,Pune,3,16453.04,0,49359.12,  Credit Card  ,N. Gupta
+ORD1869,17/08/2024,Diya Patel,ELECTRONICS,Wireless Mouse,EAST,Bhubaneswar,8,3731.89,0.2,23884.1,DEBIT CARD,P. Nair
+ORD1749,13/05/2024,Sai Iyer,Home & Kitchen,Air Fryer,West,Mumbai,9,10547.57,0,94928.13,NET BANKING,P. Nair
+ORD1939,29/07/2024,Meera Chatterjee,  Electronics  ,Bluetooth Speaker,East,Kolkata,7,9913.2,0.05,65922.78,  UPI  ,T. Joshi
+ORD1863,2025-11-26,Vivaan Menon,home & kitchen,Coffee Maker,East,Kolkata,3,4574.98,0.15,11666.2,  Cash on Delivery  ,S. Iyer
+ORD1588,2024-05-27,Arjun Kumar,Apparel,Women's Jeans,south,Hyderabad,5,6895.76,0.15,29306.98,credit card,M. Reddy
+ORD1544,24/05/2025,Rohan Menon,Apparel,Men's T-Shirt,East,Kolkata,3,20908.5,0,62725.5,credit card,R. Verma
+ORD1447,15/09/2025,Arjun Bhatt,  Home & Kitchen  ,Blender,WEST,Pune,6,21144.62,0.2,101494.18,NET BANKING,M. Reddy
+ORD1448,18/10/2024,Reyansh Das,apparel,Winter Jacket,West,,8,11270.37,0.2,72130.37,Credit Card,A. Sharma
+ORD1350,12/28/2025,Isha Menon,  Books  ,Children's Storybook,SOUTH,Bengaluru,5,17212.29,0,86061.45,DEBIT CARD,M. Reddy
+ORD1046,06/03/2025,Neha Rao,Sports,Cricket Bat,South,Bengaluru,6,13633.89,0.2,65442.67,CREDIT CARD,P. Nair
+ORD1981,05/04/2025,Reyansh Verma,BEAUTY,Shampoo,west,Mumbai,2,1034.66,0.05,1965.85,UPI,N. Gupta
+ORD1109,30/01/2024,Reyansh Pillai,Electronics,Noise Cancelling Headphones,EAST,Kolkata,4,20209.45,0,80837.8,CASH ON DELIVERY,K. Singh
+ORD1618,06/18/2025,Ravi Reddy,  Books  ,Business Guide,south,Hyderabad,8,6808.21,0.2,43572.54,Cash on Delivery,A. Sharma
+ORD1662,05/06/2024,Myra Bose,  Apparel  ,Yoga Pants,SOUTH,Bengaluru,3,11928.63,0,35785.89,credit card,S. Iyer
+ORD1030,2025-03-16,Aditya Iyer,BOOKS,Biography,NORTH,Delhi,9,1045.3,0.15,7996.54,cash on delivery,S. Iyer
+ORD1182,09/24/2024,Kabir Bose,Apparel,Men's T-Shirt,  East  ,Bhubaneswar,5,23857.77,0.1,107359.97,Cash on Delivery,A. Sharma
+ORD1622,26-Mar-2024,Pooja Singh,APPAREL,Men's T-Shirt,  East  ,Bhubaneswar,1,24100.1,0.25,18075.07,,A. Sharma
+ORD1420,22/08/2024,Aditya Nair,ELECTRONICS,Wireless Mouse,  West  ,Ahmedabad,5,15509.84,0,77549.2,Net Banking,K. Singh
+ORD1635,03-Aug-2025,Meera Rao,Home & Kitchen,Blender,  North  ,Chandigarh,10,6614.92,0,66149.2,upi,S. Iyer
+ORD1985,08-Sep-2025,Vivaan Iyer,BOOKS,Self-Help Book,north,Delhi,8,4637.75,0,37102,UPI,M. Reddy
+ORD1105,09-Apr-2025,Sai Bhatt,Beauty,Face Wash,north,Lucknow,4,10837.24,0.05,41181.51,Net Banking,M. Reddy
+ORD1061,04/12/2024,Pooja Singh,Electronics,USB-C Hub,east,Kolkata,4,5527.16,0.25,16581.48,UPI,K. Singh
+ORD1659,29/04/2024,Meera Mehta,Apparel,Winter Jacket,south,Bengaluru,2,10929.9,0,21859.8,credit card,N. Gupta
+ORD1084,06/19/2024,Myra Joshi,Electronics,Bluetooth Speaker,South,Hyderabad,2,10934.19,0,21868.38,Credit Card,T. Joshi
+ORD1491,08/06/2024,Arjun Kumar,Sports,Yoga Mat,South,Bengaluru,8,22916.65,0,183333.2,Debit Card,T. Joshi
+ORD1316,2024-01-27,Diya Kapoor,books,Business Guide,EAST,Kolkata,4,22507.22,0.2,72023.1,UPI,S. Iyer
+ORD1451,14-May-2025,Priya Pillai,Home & Kitchen,LED Desk Lamp,North,Lucknow,4,18396.51,0.15,62548.13,NET BANKING,S. Iyer
+ORD1382,10-Jun-2024,Kabir Gupta,Electronics,Laptop Stand,west,Mumbai,9,16140.4,0.05,138000.42,Debit Card,S. Iyer
+ORD1423,26/02/2025,Ravi Bhatt,books,Business Guide,east,Bhubaneswar,4,20146.99,0.25,60440.97,upi,M. Reddy
+ORD1497,15/02/2024,Vivaan Bose,beauty,Lipstick,SOUTH,Hyderabad,,17884.88,0,125194.16,CREDIT CARD,K. Singh
+ORD1966,2024-06-11,Vihaan Iyer,  Books  ,Business Guide,WEST,Mumbai,8,22078.24,0.25,132469.44,UPI,A. Sharma
+ORD1740,14/07/2024,Isha Kumar,Electronics,Noise Cancelling Headphones,NORTH,Lucknow,4,16926.42,0.1,60935.11,upi,K. Singh
+ORD1524,05/28/2024,Ananya Mehta,  Books  ,Self-Help Book,West,Pune,4,12200.23,0,48800.92,UPI,R. Verma
+ORD1446,05/31/2025,Rohan Rao,Books,Children's Storybook,EAST,Patna,2,4295.21,0,8590.42,CASH ON DELIVERY,N. Gupta
+ORD1664,13/02/2025,Neha Rao,  Home & Kitchen  ,Non-stick Pan,  North  ,Lucknow,8,18466.4,0.1,132958.08,  Credit Card  ,T. Joshi
+ORD1001,08/27/2025,Reyansh Joshi,  Books  ,Fiction Novel,NORTH,Lucknow,4,3617.52,0,14470.08,,R. Verma
+ORD1780,04/04/2024,Meera Bose,home & kitchen,Non-stick Pan,  South  ,Chennai,3,6469.06,0,19407.18,CREDIT CARD,R. Verma
+ORD1991,2025-06-29,Priya Bose,sports,Badminton Racket,NORTH,Chandigarh,1,5727.54,0.2,4582.03,DEBIT CARD,N. Gupta
+ORD1627,19/07/2025,Aarav Menon,Home & Kitchen,Cutlery Set,East,Bhubaneswar,1,21060.6,0,21060.6,DEBIT CARD,K. Singh
+ORD1458,27/03/2025,Ananya Das,home & kitchen,Bed Sheet Set,North,Chandigarh,10,20566.36,0.25,154247.7,CASH ON DELIVERY,S. Iyer
+ORD1489,07-Dec-2025,Neha Rao,sports,Dumbbell Set,South,Hyderabad,1,8444.74,0.05,8022.5,,P. Nair
+ORD1089,2024-10-20,Myra Sharma,Sports,Resistance Bands,east,Patna,7,6970.84,0,48795.88,Cash on Delivery,T. Joshi
+ORD1484,04/11/2025,Vivaan Nair,Beauty,Hair Dryer,EAST,Kolkata,7,24844.32,0,173910.24,UPI,S. Iyer
+ORD1461,12/14/2025,Karan Kapoor,Sports,Cricket Bat,north,Chandigarh,1,6498.09,0,6498.09,UPI,P. Nair
+ORD1078,28-Feb-2025,Isha Menon,apparel,Sneakers,South,Chennai,9,18695.37,0,168258.33,Credit Card,K. Singh
+ORD1269,2024-04-05,Isha Kapoor,books,Biography,East,Kolkata,4,10582.42,0,42329.68,DEBIT CARD,K. Singh
+ORD1930,09/27/2024,Ravi Mehta,beauty,Sunscreen SPF50,West,Ahmedabad,6,19350.2,0.25,87075.9,debit card,R. Verma
+ORD1124,16-Oct-2024,Rohan Bose,BEAUTY,Lipstick,north,Delhi,9,13140.29,0,118262.61,upi,M. Reddy
+ORD1298,07/10/2024,Reyansh Gupta,HOME & KITCHEN,Air Fryer,west,Pune,9,9780.05,0.15,74817.38,net banking,M. Reddy
+ORD1882,13-Dec-2024,Sneha Menon,  Apparel  ,Running Shoes,South,Hyderabad,9,23266.15,0.15,177986.05,net banking,S. Iyer
+ORD1096,16/05/2025,Rohan Das,ELECTRONICS,USB-C Hub,south,Chennai,9,10565.3,0,95087.7,NET BANKING,R. Verma
+ORD1734,30/12/2025,Sneha Chatterjee,Books,Children's Storybook,north,Delhi,9,9450.51,0.25,63790.94,debit card,M. Reddy
+ORD1012,06/05/2024,Reyansh Kapoor,APPAREL,Sneakers,north,Lucknow,3,12765.89,0,38297.67,,P. Nair
+ORD1115,13/02/2024,Diya Chatterjee,electronics,Webcam,west,Mumbai,9,17636.23,0.15,134917.16,Credit Card,N. Gupta
+ORD1844,02/12/2024,Reyansh Reddy,HOME & KITCHEN,Bed Sheet Set,East,Kolkata,10,9693.63,0,96936.3,Debit Card,R. Verma
+ORD1429,2024-12-16,Rohan Sharma,electronics,Smartwatch,East,,4,2391.4,0,9565.6,net banking,P. Nair
+ORD1258,10/11/2024,Myra Kapoor,electronics,Wireless Mouse,West,Ahmedabad,7,10675.84,0.2,59784.7,credit card,S. Iyer
+ORD1732,01/06/2024,Neha Joshi,Sports,Resistance Bands,east,Patna,1,19112.6,0.05,18156.97,Cash on Delivery,K. Singh
+ORD1950,09/11/2024,Aarav Bose,Sports,Cycling Helmet,North,Chandigarh,1,5550.53,0,5550.53,  Credit Card  ,T. Joshi
+ORD1765,2025-09-06,Meera Malhotra,Electronics,USB-C Hub,West,Pune,2,17856.4,0,35712.8,UPI,R. Verma
+ORD1353,31-Aug-2024,Vivaan Das,  Electronics  ,Smartwatch,south,Hyderabad,8,2696.63,0.05,20494.39,CASH ON DELIVERY,N. Gupta
+ORD1995,07-May-2024,Priya Verma,BEAUTY,Hair Dryer,  East  ,Patna,10,6965.61,0.1,62690.49,UPI,A. Sharma
+ORD1774,25/01/2025,Neha Kapoor,Sports,Cricket Bat,West,Pune,10,Rs.18412.96,0,184129.6,NET BANKING,A. Sharma
+ORD1956,23-May-2024,Neha Bose,  Home & Kitchen  ,Air Fryer,West,Pune,1,22827.07,0,22827.07,Net Banking,R. Verma
+ORD1691,05/04/2025,Priya Malhotra,  Beauty  ,Hair Dryer,West,,10,3450.32,0,34503.2,CASH ON DELIVERY,T. Joshi
+ORD1923,04/17/2025,Priya Joshi,sports,Cricket Bat,East,Patna,10,678.53,0,6785.3,cash on delivery,A. Sharma
+ORD1791,13-Feb-2025,Vihaan Verma,Apparel,Men's T-Shirt,East,Kolkata,6,16996.55,0.05,96880.33,cash on delivery,T. Joshi
+ORD1532,2025-11-07,Karan Singh,Electronics,Bluetooth Speaker,SOUTH,Chennai,2,17436.99,0.1,31386.58,upi,T. Joshi
+ORD1868,2024-05-16,Aditya Joshi,Electronics,Portable SSD,SOUTH,Hyderabad,6,221.22,0,1327.32,UPI,T. Joshi
+ORD1170,15-Jun-2025,Isha Rao,Home & Kitchen,Air Fryer,South,Chennai,9,19408.06,0.25,131004.4,CREDIT CARD,S. Iyer
+ORD1240,31-Oct-2024,Vivaan Bose,  Electronics  ,Smartwatch,East,Patna,,5580.77,0.2,40181.54,  Credit Card  ,P. Nair
+ORD1278,07/08/2024,Priya Malhotra,electronics,Laptop Stand,West,Ahmedabad,1,9660.83,0.2,7728.66,  Debit Card  ,M. Reddy
+ORD1161,03-Sep-2024,Myra Malhotra,Apparel,Sneakers,West,Pune,1,2387.72,0.2,1910.18,CASH ON DELIVERY,T. Joshi
+ORD1074,27/02/2025,Sai Chatterjee,electronics,Noise Cancelling Headphones,EAST,Bhubaneswar,9,20649.44,0,185844.96,cash on delivery,T. Joshi
+ORD1530,2024-09-14,Sai Kapoor,Electronics,Bluetooth Speaker,North,Chandigarh,2,17184.66,0.15,29213.92,debit card,K. Singh
+ORD1063,14-Dec-2024,Ravi Nair,  Beauty  ,Hair Dryer,South,Hyderabad,1,14415.5,0.25,10811.62,  Net Banking  ,T. Joshi
+ORD1762,01-Oct-2025,Neha Kapoor,Electronics,Laptop Stand,South,Bengaluru,2,20418.26,0.15,34711.04,Cash on Delivery,P. Nair
+ORD1493,07/08/2025,,Beauty,Perfume,East,Kolkata,1,,0.2,6862.35,CASH ON DELIVERY,S. Iyer
+ORD1741,2025-02-19,Pooja Mehta,Books,Children's Storybook,SOUTH,Hyderabad,,19286.39,0.1,17357.75,UPI,N. Gupta
+ORD1751,06/22/2025,Isha Sharma,BOOKS,Business Guide,West,Pune,3,11226.43,0.2,26943.43,  Cash on Delivery  ,P. Nair
+ORD1742,06/12/2025,Sneha Iyer,beauty,Face Moisturizer,West,Ahmedabad,7,5805.33,0.05,38605.44,Net Banking,P. Nair
+ORD1831,2024-03-27,Ananya Chatterjee,electronics,Wireless Mouse,East,Patna,6,370.26,0.2,1777.25,  Net Banking  ,P. Nair
+ORD1796,2024-10-24,Priya Bhatt,beauty,Shampoo,East,Bhubaneswar,7,20239.92,0.05,134595.47,  UPI  ,R. Verma
+ORD1048,10-May-2024,Aarav Chatterjee,APPAREL,Baseball Cap,West,Pune,6,16771.51,0.2,80503.25,debit card,T. Joshi
+ORD1763,2025-10-31,Kabir Reddy,Apparel,Yoga Pants,west,Mumbai,2,9010.92,0,18021.84,Credit Card,N. Gupta
+ORD1592,08-May-2024,,BOOKS,Cookbook,NORTH,Lucknow,3,,0,64325.58,Debit Card,K. Singh
+ORD1808,24-Jan-2024,Aarav Nair,Sports,Cycling Helmet,west,Pune,2,2203.53,0.25,3305.3,Cash on Delivery,P. Nair
+ORD1335,07-Dec-2025,Arjun Singh,Sports,Cycling Helmet,North,Chandigarh,2,10109.32,0.25,15163.98,UPI,N. Gupta
+ORD1506,11/05/2024,Karan Iyer,Apparel,Baseball Cap,east,Patna,9,2707.87,0,24370.83,  UPI  ,R. Verma
+ORD1021,03/02/2025,Ravi Reddy,  Apparel  ,Running Shoes,West,Pune,7,22575.71,0,158029.97,NET BANKING,A. Sharma
+ORD1969,31-Jan-2024,Arjun Pillai,books,Self-Help Book,East,Kolkata,10,8800.17,0.2,70401.36,Credit Card,A. Sharma
+ORD1425,2024-07-12,Neha Patel,SPORTS,Badminton Racket,EAST,Kolkata,10,5895.7,0,58957,Cash on Delivery,M. Reddy
+ORD1653,2024-04-02,Isha Malhotra,books,Fiction Novel,East,Patna,8,22152.51,0.25,132915.06,UPI,N. Gupta
+ORD1193,02/27/2024,Vivaan Joshi,ELECTRONICS,Wireless Mouse,WEST,Ahmedabad,1,10146.29,0.05,9638.98,cash on delivery,P. Nair
+ORD1643,2025-06-13,Vihaan Rao,Apparel,Sneakers,EAST,Patna,5,22584.4,0.1,101629.8,cash on delivery,K. Singh
+ORD1216,04/04/2025,Rohan Das,ELECTRONICS,Bluetooth Speaker,North,Chandigarh,5,2690.45,0,13452.25,Debit Card,N. Gupta
+ORD1245,05/14/2025,Rohan Gupta,BOOKS,Cookbook,WEST,Pune,2,10160.84,0.1,18289.51,upi,T. Joshi
+ORD1364,2024-09-21,Aditya Verma,sports,Resistance Bands,North,Delhi,3,19886.24,0,59658.72,Cash on Delivery,P. Nair
+ORD1999,2024-01-17,Arjun Verma,electronics,Laptop Stand,West,Ahmedabad,9,17976.34,,161787.06,UPI,K. Singh
+ORD1060,24/08/2024,Pooja Kumar,  Beauty  ,Perfume,west,Ahmedabad,6,17615.95,0.1,95126.13,UPI,K. Singh
+ORD1222,06/02/2025,Myra Malhotra,HOME & KITCHEN,Blender,west,Pune,10,19582.06,0.15,166447.51,  Net Banking  ,K. Singh
+ORD1177,2025-07-01,Isha Patel,APPAREL,Yoga Pants,WEST,Pune,6,7242.57,0,43455.42,credit card,P. Nair
+ORD1450,26-Aug-2024,Rohan Das,Beauty,Lipstick,NORTH,Delhi,3,Rs.3589.44,0.15,9153.07,  Cash on Delivery  ,P. Nair
+ORD1056,04/06/2025,Neha Pillai,Apparel,Baseball Cap,  West  ,Pune,5,8159.27,0.05,38756.53,  Credit Card  ,K. Singh
+ORD1804,19/07/2024,Diya Bose,Home & Kitchen,Cutlery Set,south,Hyderabad,8,7383.38,0,59067.04,Debit Card,P. Nair
+ORD1255,21-May-2025,Meera Kapoor,Electronics,Smartwatch,SOUTH,Hyderabad,4,18733.91,0.1,67442.08,Credit Card,P. Nair
+ORD1920,01/29/2025,Aarav Kumar,Home & Kitchen,Coffee Maker,  North  ,Chandigarh,4,11714.61,0.15,39829.67,  Debit Card  ,R. Verma
+ORD1386,20/06/2024,Kabir Rao,Beauty,Nail Polish,West,Mumbai,10,3696.4,0,36964,CASH ON DELIVERY,K. Singh
+ORD1949,2024-11-06,Ravi Iyer,HOME & KITCHEN,LED Desk Lamp,  North  ,Delhi,8,17070.94,0.1,122910.77,Cash on Delivery,S. Iyer
+ORD1198,2025-01-21,Vihaan Gupta,apparel,Formal Shirt,north,Chandigarh,9,18155.93,0.05,155233.2,  Credit Card  ,K. Singh
+ORD1069,03/25/2025,Diya Gupta,  Electronics  ,USB-C Hub,SOUTH,Chennai,1,4273.18,0.1,3845.86,  Cash on Delivery  ,K. Singh
+ORD1723,25-Oct-2024,Karan Bhatt,Home & Kitchen,Air Fryer,  East  ,Bhubaneswar,3,3813.12,0.1,10295.42,Cash on Delivery,M. Reddy
+ORD1745,2024-05-22,Priya Bhatt,apparel,Yoga Pants,  West  ,Ahmedabad,5,8253.08,0,41265.4,cash on delivery,A. Sharma
+ORD1714,03/24/2024,Neha Bhatt,Electronics,USB-C Hub,  North  ,Chandigarh,8,8008.61,0.2,51255.1,debit card,M. Reddy
+ORD1169,27/03/2025,Kabir Verma,BEAUTY,Face Wash,South,Hyderabad,10,23712.9,0,237129,,A. Sharma
+ORD1186,03-Apr-2024,Arjun Kapoor,Beauty,Sunscreen SPF50,  South  ,Bengaluru,8,3038.56,0.05,23093.06,cash on delivery,T. Joshi
+ORD1036,12/26/2025,Meera Kapoor,  Sports  ,Resistance Bands,EAST,Bhubaneswar,2,9722.11,0.05,18472.01,UPI,A. Sharma
+ORD1642,15-Feb-2024,Aditya Kumar,SPORTS,Resistance Bands,WEST,Mumbai,9,10908.3,0.1,88357.23,CREDIT CARD,M. Reddy
